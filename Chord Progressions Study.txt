@@ -1,0 +1,98 @@
+
+
+
+Minor Key Chords
+
+Notes from https://www.musical-u.com/learn/discovering-minor-chord-progressions-minor-chords-part-one/ 
+There are many sound files there for examples of these chord progressions.
+
+
+
+
+1. Natural Minor 
+
+Key Am
+
+Am Bdim   C   Dm Em F  G   Am
+i  ii-dim III iv v  VI VII i
+
+Melodic Minor
+
+Am  Bm  C+   D  E  F#dim  G#dim   Am
+i   ii  III+ IV V  vi-dim vii-dim i
+
+
+
+
+2. Harmonic Minor
+
+The transition from the v (Em) back to i (Am) is not very compelling so natural minor progressions are not that common. Instead the Harmonic Minor uses the 11th semitone. The half step from the root note (in the key of Am that's G#) allows for chords (E : E-G#-B) that beg to go back to the root. 
+
+Key Am
+
+Am  Bdim   C+   Dm E  F  G#dim   Am
+i   ii-dim III+ iv V  VI vii-dim i
+
+i–iv–v vs i–iv–V
+The difference is readily apparent in these progressions.
+
+Am Dm Em Am (natural)
+
+Am Dm E Am (harmonic)
+
+
+[I  ii-dim V i]
+(there isn't a very good way to play dim chord on the guitar)
+
+Am Bdim   E Am 
+i  ii-dim V i
+
+Em F#dim  B Em 
+i  ii-dim V i
+
+But the half diminished (m7b5)
+Am7b5  Em7b5  F#m7b5  Bm7b5
+
+Am - Bm7b5 - E7 - Am
+Am - Bm7b5 - Bdim7 - Am
+
+C - Dm7b5 - G7 - C
+
+diminished 7 (m7b5)
+Adim7  Edim7  Bdim7
+
+E - Edim7 - E
+
+C - Em - F - F#dim7 - C - G - Fm - C
+C - C#dim7 - Dm7 - G7 - C
+C - Ebdim7 - Dm7 - G - C
+C - G - Abdim7 - Am - F - G - C
+
+
+
+
+3. Baroque
+
+
+C Major: 
+                 x2343x                                                                  
+C (I) - F (IV) - Bdim (viio) - Emin (iii) - Amin (vi) - Dmin (ii) - G (V) - C (I)
+
+
+
+
+4. PIXIES - Long Rider
+
+Has that ritualistic sound that a lot of metal bands have.
+
+Gm 	[355333]
+
+F  B  Dm  C
+F  C  Dm  B
+
+key of F
+
+[Chorus]
+(this kind of works, but isn't what seems to be used)
+F  C  Dm  B    Gm  C  Am  Dm
+I  V  vi  IV   ii  V  iii vi  I

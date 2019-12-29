@@ -1,0 +1,1960 @@
+My Bubba
+Lyrics mostly from https://ohmybubba.tumblr.com/lyrics
+
+
+
+
+ALBUM:  Goes Abroader
+April 28, 2014
+INCOMPLETE (Island needs expanded, dogs - reps, )
+
+
+
+
+1. Seashell Intro
+
+humming in key of C#
+
+
+
+
+2. Island                                                                       (needs work on tabbed intro)
+
+https://youtu.be/LFBZvLp66RY?t=934
+
+Basic pattern: I-ii-V-I
+    B       [79987x] E-up7, she plays 7x987x and x9987x (B/F#) w/ thumb and 3 fingers plucking 
+    C#m     [x4665x] Am-up4
+    F# 	    [24432x] E-up2      
+
+Variations:
+    A# 	    [6x876x] intro
+    Fo7    	[x8979x]   
+    F#7no5 	[x9897x] (no5 probably incidental)
+
+    B(#11)  [x898xx] or F7(#11)   in Verse 1
+    F#7no5' [x989xx] 
+    B7      [22120x] (or [x2424x]) typically moves her middle finger from string-5 to 6 to alternate B7 B7/F#.
+    G#      [46654x] E-up4         
+
+    BM7     [x24342] or D#m(b13) ? in Interlude                                     
+    EM(11)  [77789x] or EM(#11) [x7889x] or A#7(#11) E(#11) [x7899x]?
+
+
+Esus2 	Bsus 	x7997x
+
+
+key of B
+
+
+[Intro]
+  A# B       B/F#      Fo7     F#7no5 A# B       B/F#    B
+e|-----------------------------------------------------------------------|
+B|-6s7-7-.-7---7-.-7-9-9-9-.-----7-7-.-6s7-7-.-7---7-----7---------------| (rhythm needs work)
+G|-7s8-8-.-8---8-.-8-7-7-7-.-----9-9-.-7s8-8-.-8---8-----8---------------|
+D|-8s9-9-.-9---9-.-9-9-9-9-.-----8-8-.-8s9-9-.-9---9-----9---------------|
+A|-----------9---------8-8-.---9-----------------9-----------------------|
+E|-6s7---------------------------------6s7---------------7---------------|
+     1 + 2 + 3 + 4 + 
+
+[Verse 1]
+                 B     B#11 F#7no5'    B                 
+Will circle your island    ‘til I find your bay. 
+                       B7                       G#   
+I’ll crawl through the seaweed to knock on your door.
+           C#m                                      B    
+Walk barefeet on the broken clam shells, mile after mile.
+              C#m                              F#                                      
+It’s cold and windy at the seaside. Yet here I am.
+
+[Chorus]
+                       B                          B     
+I’ll go and saddle the cannons, I’ll round up the seals.
+                    C#m  F#            B    
+We’ll lay down your anger, so soft and neat.
+                         B                       B                   
+‘Cause there is only one word and it needs to be cried:
+          C#m   F#                B                                                         
+I I I I’m sorry – for letting you down.
+
+[Verse 2]
+(strumming pauses after last measure of chorus)
+                 B                             B        
+I see so many seahorses. They all say the same thing;
+              C#m      F#                 B     
+bow down your neck and wait, it’s not too late,
+              B                           B7  B7/F# B7
+sing soft and sweet, honey drizzle if you dare,
+            (F#)  C#m         F#                      B            
+climb around that angry bear, charm him like a millionaire.
+
+[Chorus]
+
+[Interlude]
+       BM7          E(11) B        C#m  F#                             B    
+Island man, take my tan, shake me around and drop me in your cocktail, dear.
+
+[Chorus]
+
+
+
+
+
+3. Dogs Lying Around Playing
+
+Samoan clap dance?, only males perform those, haha. Sets of eight beats.
+
+A =                                                                                            
+lap-lap-  clap-r.lap-backhand-backhand-  clap-l.lap--backhand-backhand-  clap-lap  ~   ~     x2
+1         2          3                   4           5                   6         7   8
+
+B =                                                                                     
+lap-lap-  clap-l.arm-lap-clap-snap-clap-  lap-lap-  clap-l.arm-lap-clap-snap-clap     x?
+1         2          3        4           5         6          7        8
+
+C =                                                                                     
+lap-lap-  clap-l.arm-lap-clap- ~ -clap-  lap-lap-  clap-l.arm-lap-clap- ~ -clap       x?
+1         2          3        4           5         6          7        8
+
+D =                                                                                        
+lap-lap-  clap-l.arm-lap-clap-l.lap-clap-  lap-lap-  clap-l.arm-lap-clap-r.lap-clap-     x?
+1         2          3        4            5         6          7        8
+
+E =                                                                             
+lap-lap-  clap-r.arm-r.hand-l.arm-l.hand-stomp-l.clap-l.cheek-r.cheek-clap  ~  ~
+1         2          3            4            5              6             7  8
+
+[Intro]
+A
+
+[Verse 1]
+(G's need to changed out for proper clapset)
+    A                          G                         B  
+I’m stuck downtown, there’s no train for where I want to be.
+    B                          G                         B  
+I’m stuck downtown, there’s no train for where I want to be.
+       G                   G                   G  
+’Cause you won’t be at the station waiting for me.
+
+[Verse 2]
+    G                         G                           G     
+For heaven I’m a failure, for earth I’m as good as any­one else,
+    G                         G                           G     
+For heaven I’m a failure, for earth I’m as good as any­one else,
+    G                 G                  G      
+for me I’m as good as you or your mot­her tells.
+
+
+[Verse 3]
+      G                       G                         G      
+I got stuff in my hair I have difficulty see­­ing with my eyes.
+      G                       G                         G      
+I got stuff in my hair I have difficulty see­­ing with my eyes.
+          G              G                         G     
+But I can hear my unborn daughter clearly when she cries.
+
+[Verse 4]
+   G                  G                       G     
+My murder is nev­er my giving birth is all the time.
+   G                  G                       G     
+My murder is nev­er my giving birth is all the time.
+   G                        G                   G    
+My living is you now, and a wound with salt and lime.
+         G                        G                    E    
+Yeah, my living is you now, and a wound with sugar and lime!
+
+
+
+
+4. Poem Found in the Pocket of an Amazon
+
+https://youtu.be/LFBZvLp66RY?t=172
+
+No capo, swing rhythm, you can add in more base string elements to substitute for the bass.
+Hammers are between eighths.
+
+key of Em
+
+[Intro]
+e|-------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------------|
+D|-------------------------------------------------------------------------------|
+A|-----------0----2----3----7----6----2--3--0--7----5----2--3--7----2-(3)-Am...--|
+E|--0--2--4----------------------------------------------------------------------|
+
+   Am       Am/B    Am/C    Am      Em              Am               
+e|----0---0---0---0---0---0---0---0---0---0---0---0---0---0---------|
+B|----1---1---1---1---1---1---1---1---0---0---0---0---1---1---------|
+G|----2---2---2---2---2---2---2---2---0---0---0---0---2---2---------|
+D|-----(2)-----(2)-----(2)--0h2-0h2-----2h3-2----------(2)----------|
+A|--0-------2-------3---------------------------2---0-------0-------|
+E|-----------------|--------------|-0--------------|---------(0-2-4)| bass notes finish last measure
+
+   Am       Am/B    Am/C    Am      Em               
+e|----0---0---0---0---0---0---0---0---0---0---0---0-|
+B|----1---1---1---1---1---1---1---1---0---0---0---0-|
+G|----2---2---2---2---2---2---2---2---0---0---0---0-|
+D|-----(2)-----(2)-----(2)--0h2-0h2-----2-------2---|
+A|--0-------2-------3-------------------------------|
+E|-----------------|--------------|-0-------0-------|
+
+    Am      A7      Dm              Am              Em               
+e|----0---0---0---0---1---1---1---1---0---0---0---0---0---0---0---0-|
+B|----1---1---2---2---3---3---3---3---1---1---1---1---0---0---0---0-|
+G|----2---2---0---0---2---2---2---0---2---2---2---2---0---0---0---0-|
+D|------2-------2---0---0---0h2-0-------2-------2-------2-----------|
+A|--0-------0-----------------------0-------0---------------2---2---|
+E|--------------------------------------------------0---------------|
+
+    Am      A7      Dm              Am              B               Em               
+e|----0---0---0---0---1---------------0---0---0---0-------------------0---0---------|
+B|----1---1---2---2---3---------------1---1---1---1---4---4---4---4---0---0---------|
+G|----2---2---0---0---2---------------2---2---2---2---4---4---4---4---0---0---------|
+D|------2-------2---0-------2---2---------------2-----------4---4-------2-----------|
+A|--0-------0-----------------------0-------0-------2-----------------------2-------|
+E|------------------------------------------------------------------0--------(0-2-4)|
+
+[Verse 1]
+Am     /C  /B      Am      Em                    
+Juices flow in the jungle, rocks fall and nothing
+Am       A7       Dm             Am             Em                    
+at all is sacred, in the jungle, lips sink down to endless sips in the
+Am          A7      Dm       Am              B                 Em     
+water­fall in the river tall, warmer than the sun hidden by the green,
+(walkup)Am  /C  /B      Am              Em        Am
+in the jungle, bugs procreate like it’s innate to constantly seriously
+
+[Chorus 1]
+Dm [557765, strumming]             Em [779987]
+date, under­neath the leaves in the shade, no sharp blade,
+       Dm                                       
+in the jungle, heaven’s sake, cold and straight?
+           Em                                   
+Not in the jungle, hooray, my arm all the ruckus
+
+[Verse 2]
+       Am /C /B  Am             Em            Am           
+in the jungle! More than a mate, no stove but tons of bait,
+Am     /C  /B      Am     Em       Am        Am /C /B Am Em Am
+you’re never late, in the jungle, I just ate---.
+Am    /C  /B  Am        Em                       Am   
+Snakes maybe, hold on to that branch, no not that one,
+     Am      /C    /B      Am         Em                           Am    
+come down from the tree top, we could gather some fruit and have a party,
+
+[Chorus 2]
+Dm                             Em                  
+come correlate we’re naked or slimy muddy or brown,
+             Dm                                         Em                         
+look at that small dawn the long dusk the hot night the monkeys yapping on and on –
+               Am   /C /B Am Em Am          Am /C /B Am Em Am
+a never ending charm.     Oooh-oo-ooo-ooh  Oooh---
+
+[Instrumental]
+Am A7  Dm  Am  Em            
+Am A7  Dm  Am  B  Em (walkup)
+Am /C /B Am Em Am
+
+[Outro]
+Dm       Am      Em                Am        Dm  Am       B    Em   Am     
+I have a big itch somewhere in the jungle, a big itch, in this here jungle.
+
+
+
+
+5. Through & Through
+Tabbed in the Wild & You album
+
+
+
+
+6. Azorean Bull
+https://youtu.be/DURX1LNSxSM
+Author: My Larsdotter
+Composer: My Larsdotter
+Composer: Gudbjörg Tómasdóttir (Bubba)
+
+I couldn't find video of this one so it's more likely to have errors.
+
+G7  [320001] Is it played with G or G7?
+C   [x32010]
+D   [xx0232]
+
+I've used x's for the most part to indicate plucking with your fingers holding the current chord. Helps to see the pattern and focus on what's (mostly) going on with the thumb. In some places I used dots where the notes are either faint or doubtful.
+
+The hammer-ons start on the 'h' (not the following number) so:
+	  0
+	0h2
+are 3 sequential notes spaced equally in time intervals of 16ths.
+If you can't play the mooing bend at the end, b1, just play 2.
+
+
+Capo 1 key of Ab (G-relative to capo)
+
+   G                                                                        
+e|-------x---x---x---x---x-------x---x---x---x---------------------------x-|
+B|-------x---x---x---x---x-------x---x---x---x---x-----0-----------------x-|
+G|-------x---x---x---x---x-------x---x---x-0-----x-------0---0-----------x-|
+D|---------0---0h2-0---0-----------0---0h2-----4-0---------------------0---|
+A|-------------------------------------------------------------------------|
+E|-3-----------------------3-----------------------3-------1---3-----------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+                                                                  I’ve got a
+
+   G                                                
+e|-------x---x---x---x-----------x---x---x---x-----|
+B|-------x---x---x---x-----------x---x---x---x---x-|
+G|-------x---x---x---x-----------x---x---x-0-----x-|
+D|---------0---0h2-0---------------0---0h2-----4-0-|
+A|---------------------0h2-------------------------|
+E|-3-----------------------------------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+   priz winnin Azore   an  bull.                 He
+
+   G                                                
+e|-------------------------------x-------x---------|
+B|-------------------0---------------0-----------.-|
+G|-----------------0h2-2-p0--------2s3-----------x-|
+D|---------0---0h2-0---------------------------0---|
+A|-------------------------0h2---------------------|
+E|-3-----------------------------------3-----------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+   licksme inthmorning whe shines.            He breaks
+
+   G                                                
+e|-------.-----------------------------------------|
+B|-------.---------------------x-------------------|
+G|-------x---x-------------------x-----------x---x-|
+D|---------0---0h2-----------------------------0---|
+A|---------------------------------1s2-------------|
+E|-3-----------------------3-----------3-----------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+   freefrommy  ropewhentry tie him.        He’sa
+
+   G                                                
+e|-------------------------------x-----------------|
+B|-------------------------------------------X-----|
+G|-----------X-----------X-----------X-3-------3-0-|
+D|------------0h2----s1p0----------x---0-----------|
+A|-2-----------------------------------------------|
+E|-------------------------3-----------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+   priz winninAzor e   an  bull.
+
+   G                       C                        
+e|-------.-----------------------------------------|
+B|-------.---------------------x-----x-------------|
+G|-----------X---X---X---X-------x-----0---------0-|
+D|---------0-----------------------0h2---------2---|
+A|-----------------0---2---3-----------------------|
+E|-3-----------3-----------------------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +
+
+   G                       D                         G    
+e|-----x-----------------------.---.---2---------.-|---.-|
+B|-----------------------------x---x-------------.-|---.-|
+G|-------x---x---x---x---x-------2-----------x-----|---.-|
+D|---------0h2-----0-------0---------0---------0---|---.-|
+A|---------------------b1--------------------------|-----|
+E|-3-----------3-----------------------------------|-3---|
+   1 + 2 + 3 + 4 + 5 + 6 + 1 + 2 + 3 + 4 + 5 + 6 +   1 234
+
+
+(chords)
+
+G G G                                 
+           G                     G    
+I’ve got a prize winning Azorean bull.
+   G                               G      
+He licks me in the morning when it shines.
+          G                               G       
+He breaks free from my rope when I try to tie him.
+       G                     G     C G D G
+He’s a prize winning Azorean bull.
+
+
+
+
+7. Feverish
+https://www.youtube.com/watch?v=5FZ5-F1MjMQ
+(there's a tab for this on UG that is awful)
+
+The picking has a percussive pattern alternating from base to treble as if emulating bongos, with anything from lots of rests:
+
+e|------0-------0-------0-------0----|
+B|------0-------0-------0-------0----|
+G|------1-------1-------1-------1----|
+D|------------------2----------------|
+A|--------2-2-------------2-2--------|
+E|--0--------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+to the completely full pattern of:
+e|------0-----0---0-----0-----0------|
+B|------0-----0---0-----0-----0------|
+G|------1-----1---1-----1-----1------|
+D|------------------2-2---------2----|
+A|--------2-2---2---------2-2--------|
+E|--0-0---------------------------0--|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+Bubba She plucks the three high strings together with index, middle and ring fingers.
+Occasionally (like the start of the last verse) she moves the three fingers one string lower.
+She simplifies the B7 either using two fingers (not playing the high e-string) or moving the three fingers lower.
+She starts the B7 from the D-string then uses her middle finger to switch to the E-string which is just an inversion (B7/F#).
+Similarly she uses the ring finger to switch from Am6 to Am/C.
+
+B7    x2120x (x21202)                                                            
+B7/F# 2x120x (this is used for the second half of every B7 as shown in the intro)                                                   
+Am6   x04210                                                                                                                        
+Am/C  x3x210 (x32210 if strumming or just dampen the d-string with your ring finger that's on the a-string if your pinky is no good)
+Bm6   226432
+
+
+Capo 5, Key of A (E chordset with capo which Bubba uses)
+
+[Intro]
+    E                                   F#m             B7     (B7/F#)    
+e|------0-----0---0-----0-----0------|------2-----2--------(2)---(2)-----|
+B|------0-----0---0-----0-----0------|------2-----2---------0-----0------|
+G|------1-----1---1-----1-----1------|------2-----2---------2-----2------|
+D|------------------2-----------2----|--------------4---------------4----|  x2
+A|--------2-2-------------2-2--------|--------4-4-----4-2-----2-------0--|
+E|--0-----------------------------0--|--2-----------------------2--------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+[Verse 1]
+E                        F#m        B7     
+I think I’ve caught that rain­forest fever,
+E                  A    Am6 Am/C
+since you shook my palm tree.
+    E                F#m   B7      E   F#m  B7
+Now I got the forest fever deep in me
+
+[Verse 2]
+E          F#m      B7   
+I can only lie here lazy,
+E                 A      Am6 Am/C
+watch the days go by and by..
+E         F#m         Am6 Am/C B7          E   F#m  B7
+I air the orchid to a lo­ne­some jungle lullaby.
+
+[Instrumental]
+(humming)
+E  E  F#m  B7  *4          
+E  E  Bm6  A7 Em6  B7  E  E
+
+[Bridge]
+A       A7                E                        
+Find me a place where the sun hides from the shade.
+A                    Am6                     
+On the forest floor, deep in the jungle core,
+E               Bm6        (walk down the d-string)
+a fallen fruit, a quiet roar.
+Am6 (Am/C Am6 Am/C Am6 Am/C   Am6 Am/C)
+Peel the  orange,  stroke the strings,
+B7 (B7/F# B7 B7/F# B7 B7)
+paradise  birds    sing..
+
+(repeat verse 1)
+
+[Outro]
+E         F#m         Am6 Am/C B7          E   F#m  B7
+I air the orchid to a lo­ne­some jungle lullaby.
+
+E  E  F#m  B7  *4
+
+[End]
+
+Overlaid guitar:
+
+end of verse 2:
+   E               E                 F#m             B7                   
+e|---------------------------------|---------------------------------|---|
+B|---------------------5---4---2---|-0-------------------------------|-0-|
+G|---------------------------------|---------2---4---2-----------1---|---|
+D|---------------------------------|---------------------------------|---|
+A|---------------------------------|---------------------------------|---|
+E|---------------------------------|---------------------------------|---|
+   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+lullaby.
+
+Instrumental:
+   E               E                 F#m             B7               
+e|---4-----4-----4-----4-----4-----|-2-----2-----0-------2-------2---|
+B|-5-----5-----5-----5-----5-----5-|---5-----5-------4-------4-------|
+G|---------------------------------|---------------------------------|
+D|---------------------------------|---------------------------------|
+A|---------------------------------|---------------------------------|
+E|---------------------------------|---------------------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+
+First half of the outro:
+   E               E                 F#m             B7               
+e|---4-----4-----4-----4-------4---|-2-----2-----0-------2---2-------|
+B|-5-----5-----5-----5-----5-------|---5-----5-------4-----------4---|
+G|---------------------------------|---------------------------------|
+D|---------------------------------|---------------------------------|
+A|---------------------------------|---------------------------------|
+E|---------------------------------|---------------------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+e|-12----7-----9-----0-----7---6---|-5-----9-----5---2-----7-----0---|-12|
+B|------(12) could play some notes here------------------------------|---|
+G|---------------------------------|---------------------------------|---|
+D|---------------------------------|---------------------------------|---|
+A|---------------------------------|---------------------------------|---|
+E|---------------------------------|---------------------------------|---|
+
+
+
+
+8. Knitting
+A cappella (all Ebm)
+
+On a farm, in a barn, feelin’ lonely but I got some yarn,
+oh yeah, got the yarn, I’m gonna do some knitting.
+On a boat, slit my throat, feelin’ bad, but I still got some of that Ya YaYaYaaarn,
+Ooh, I’m gonna do some knitting.
+Knit, knit knit knit knit – I need to do some knitting.
+
+
+
+
+9. Wild & You
+Tabbed in the Wild & You album
+
+
+
+
+10. Our Water Hours
+https://youtu.be/F8Eeh14UB-4
+
+I don't know anything about singing harmonies. I think Bubba is mostly holding notes in the chord and not mirroring at an interval (if she did I think it would throw in notes out of the scale and sound weird?--see https://learningmusic.ableton.com/advanced-topics/mommy-whats-a-record.html for an example of parallel chords, or if she stayed on the scale at times a 5th would become a major 4th or something strange?) I've attempted to tab the notes (relative to capo 3 still so you can see the relation to the chords) but my ear has trouble separating them (originally I had Bubba starting a third down but I have them beginning in unison). There are multiple ways to get from "gold" to "sun". My natural/naive way of singing that isn't what I've noted. Any suggestions to art at aamarks com.
+
+Most chords standard except at times she slides a d-shape up 3 for F
+F/A x0x565 or Dm7 (F6) xx0565  (Used also in Through and Through)
+
+Pima: Thumb, index, middle, annular(ring) fingers
+
+Lots of variation in the picking and strumming. These are some details for the live recording. Here's how it starts:
+(The apostrophe indicates where she hits her f-hole guitar with her fingernails setting up for the next pluck. You can at least stop the strings on a standard guitar.)
+
+   C                                
+e|---------------------------0---0-|
+B|---1-'-1---1-'-1---1-'-1---1---1-|
+G|---0-'-0---0-'-0---0-'-0---0---0-|
+D|---2-'-2---2-'-2---2-'-2-2---2---|
+A|-3---------------3---------------|
+E|---------3-----------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+   You and me in...water
+
+There's a walkup to F (at least in the bass) in the third line of the verse starting with the open d-string, d e F.
+
+later strumming a C in the Chorus:
+
+   C               C7
+       d u   u d u
+e|-----0-0---0-0-0-----0-0---0-0-0-|
+B|-----1-1---1-1-1-----1-1---1-1-1-|
+G|-----0-0---0-0-0-----3-3---3-3-3-|
+D|---------2---------------2-------|
+A|-3---------------3---------------|
+E|---------------------------------|
+   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+   P   i i P i i i
+The water      The water
+
+
+
+Capo 3, Key of Eb (C chordset)
+
+[Intro]
+(a cappella until the last chord)
+(C)                                         
+g g   a  c    a  g   c     e d c c      (Mi)
+g g   g  g    g  g   e     g     g      (Bubba)
+I dry my hair on the stove every night.
+                (F)          (C)         C
+e    e    e  e   f    a g   a e c  ab g  c
+g    g    g  c   a    c b   a g    g  f  e
+It’s gold in the sun. After a bath it is brown.
+
+[Verse 1]
+C                        F                C     
+You and me in the water, nightlong in the water.
+                                          G                     
+In the dark on the deep we float, then we put on a coconut coat.
+C                             F              C    
+You and me after hours. We’ll never turn the tide.
+          G/B         A7         F/A              G    
+You know, without the water, the void is deep and wide.
+
+[Chorus]
+    C          C7         F             
+The water, the water, The warming water.
+    C              E          Am             D     
+You keep me in the water, You keep me in the water,
+  C                    E           Am                D    
+I can’t get out of the water, I’ll lose you there if I do.
+   C                G7            C   C7
+On land my arms are empty without you.
+
+[Bridge]
+F/A  G     C         C7          
+Lean in to smell you by the well,
+F/A      G      C     C7
+damp and comfort­ing,
+F/A      G      C         C7       
+but the current might come crawling
+    F/A      G    C    
+and sweep me away soon.
+
+[Verse 2]
+C                                  F                C    
+I braid my hair in the morning, at night I leave it wild.
+                                    G                    
+I can wear it like a scarf when the water heat gets mild.
+C                                 F               C            
+Swimmingly late in the after­noon, sound asleep in your lagoon,
+          G/B      A7                          F/A           G     
+but in my dreams I roll down a river stream, a river full of steam.
+
+[repeat Chorus]
+
+[Outro]
+   C                G7            C   
+On land my arms are empty without you.
+
+
+
+
+11. Traveling Song
+
+a cappella
+Key of B
+
+B                                                                  
+Goes abroad­er, goes abroader. Who was my father? He went abroader.
+B                                  
+Goes abroader, goes abroad­er baby.
+B                                                                                        
+Oh foggy mountain – donʼt hide my fountain! Oh foggy moun­­tain – I am so pleased to see.
+F#                                                   
+Bring up my baby, make her a lady, bring up my baby –
+                                         B  
+Iʼd roll her in the snow – but I have to go.
+
+
+
+
+
+12. Sambanane (aka Banana Samba)
+
+Capo 3, Key of C (A relative to capo)
+
+[part 1, samba rhythm]
+    A                 
+e|-------------------|
+B|--2-2--2-2-2-2--2--|
+G|--2-2--2-2-2-2--2--|
+D|------2------------|
+A|--0-------0--------|
+E|--------------0----|
+    1 + 2-+-3-+-4 +
+
+       A             F#    Bm                   E7     
+Lonely birds falling down, hit the lakes with a splash.
+          A                          F#             Bm                       E7  
+Then they swim to the bottom, slowly down, and make love in the old volcanic ash.
+
+Oooooh
+
+[part 2, slowly]
+    A                 
+e|-------------------|
+B|------2-2---2-2-2--|
+G|--2---2-2---2-2-2--|
+D|------2-2-2---2-2--|
+A|-------------------|
+E|-------------------|
+    T   d u T u d u
+	1 + 2 + 3 + 4 +
+
+     A          F#               Bm           E7 
+My banana needs peeling, I don’t know what to do.
+       A            F#        Bm      E7  
+I lost both my arms trying to talk to you.
+A          A7                      D                Dm 
+Hell bent, well spent, but now I’m not sure what to do.
+   A            E7               A  
+My banana needs peeling, what to do?
+
+Oooooh...
+            A               F#            Bm                    E7 
+You left my freckles on the doorstep, but what am I supposed to do?
+       A                  F#                    Bm                  E7   
+You’re flown off with the storm now, and you forgot to leave me the glue.
+
+A          F#                         Bm                        E7            A               F#                   Bm             E7                             A   
+Pale face, freckle embraced, but they won’t stay on without the glue. They’ll fly right of my cheeks with the next storm. They’ll fly off with a storm just like you.
+    A7 C#m Cm Bm   E7   A
+Ooooooh
+A               F#              Bm             E7   
+Mourning your absence leaves me colorless, but blue.
+A                       F#            Bm            E7                    A   
+Fruit falls heavy at my window, but I don’t seem to know what to do about you.
+A7 C#m Cm   Bm            E7                      A  A7 C#m Cm   Bm        E7         A  A7 C#m Cm   Bm  E7 A
+      No, I don’t seem to know what to do without you.             What to do without you?
+
+
+
+
+
+13. East Cave
+https://youtu.be/LFBZvLp66RY?t=562
+
+Fm  [x 8 10 10 9 8]
+Bbm [xx8666]
+Db  [9 11 11 10 x x]
+C   [8 10 10 9 x x]
+C7  [x3535x]
+Db7 [x4646x]
+
+Unlike many of their songs this one does not have a swing rhythm.
+
+Basic pattern:
+e|------8-8---8---8--|
+B|------9-9---9---9--|
+G|------1010--10--10-|
+D|----------10--10---|
+A|--8----------------|
+E|-------------------|
+    1 + 2 + 3 + 4 +
+
+Standard, no capo, key of Fm
+
+[Intro]
+(2 bars each chord)
+Fm       
+(humming)
+Fm  Fm  Bbm Fm
+Db  C   Fm  Fm
+
+Fm                     Bbm                       C                       Fm C  (bass is going to C but I think guitar stays on Fm)
+She mounted her horse. She told the white horse; ‘Hail, Whitie, falcon’s wing.
+Fm                          Bbm                        C                      Fm     
+Raiding has been your work, ever has Maharani raided – lead me to the city of Tayma!’
+
+C7    D7 C7
+Oooooh
+C7    D7 C7  Fm
+Oooooh
+
+Fm                                 Bbm                             C                                         Fm C 
+He was a beast and could not talk, but the steed knew many things. He looked over the mountains, wind in her cape.
+Fm                  Bbm                                   C                                        Fm C  
+Sand in their eyes, as they crossed them dunes, ‘til they rushed down the mountain to the plain of Tayma.
+
+(continues straight into the next song, Going Home)
+
+
+
+
+
+14. Going Home
+https://youtu.be/LFBZvLp66RY?t=786
+
+Very interesting chords in this one that I've never seen before. The lyrics are from My Bubba https://ohmybubba.tumblr.com/lyrics. This one has a swing rhythm.
+
+Dm6/9  020231  or Am(9 11) 	020210
+Dm/F   100231  or Dm9/F 	100210
+Am7/G  302010
+D9/F#  200210
+
+Capo 8, Key of Fm (Am relative to capo)
+
+
+[Intro]
+        Am                                                                    
+e|-0-|----0-------0-------0--------------|----0---------------0-------0------|
+B|---|------1---0---0-------1-----1------|------1---------------1------------|
+G|---|----------------2-------2-------2--|--------2---2---2-------2-------2--|
+D|---|--------2-----------------2---2----|----------2---2-----------2---2----|
+A|---|--0---------------0----------------|--0---------------0----------------|
+E|---|-----------------------------------|-----------------------------------|
+ 4 +    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+Am                                         C      E           
+Um dimma nótt á bjartri vetrarbraut, a› sofa út í stjörnulaut.
+Am                                   C                                E     Am
+Í litad‡r› sé ég svartan auga-stein, vindar fjúka strjúka vanga og vi›bein.
+
+G                   C             
+Himininn bjó um þig skýjarjóðri í.
+      Dm6/9 Dm/F   E        Am        Am7/G  D9/F#
+Þegar vetrarbreiðan bráðnar kemur sumarnótt á ný,
+   Dm6/9   Dm/F  E      Am   Am7/G     D9/F#
+en þúú ert áfram ungur, jafn ungur og í gær.
+   Dm6/9    Dm/F     E              Am   
+Að vakna með fallegt sár sem aldrei grær.
+
+[End]
+
+Rough Google translation from the Icelandic:
+On a dark night on a bright galaxy, sleeping out in the star wreck. In color, I see a black-eye-stone, winds blowing wicked cheeks and bones.
+The sky made you clouded. When the winter season melts, summer nights come back, but you're still young, as young as yesterday. Waking up with a beautiful wound that never heals.
+
+Bing:
+On a dark night on a bright winter, to sleep out in a star-free. When I see a black eye-stone, the wind is a feather, the winds of the sea and the bones.
+The sky's been living on a cloud of light. When the winter-wide melon comes the summer night again, but you remain young, as young as yesterday. To wake up with a beautiful wound that never cries.
+
+
+
+
+
+15. Sexual Healing
+(capo 5)
+
+[Intro]
+CC
+(base begins)
+CCC
+
+C Am      F                G    
+Baby, I'm hot just like an oven.
+F           C     
+I need some lovin'
+    C Am                F                    G                        
+And baby, can't hold it much longer it's getting stronger and stronger
+    G               Am              F      G       
+And when I get that feeling, I want sexual healing,
+G            Am      F             G      
+sexual healing baby, makes me feel so fine
+G                Am       F  G
+helps to release my mind
+G            Am     F        G     
+Sexual healing baby, is good for me
+G            Am   F                   G        C 
+Sexual healing is something that's so good for me
+
+C        Em                 Am              F                     G       C 
+Whenever blue teardrops are falling and my emotional stability is leaving me
+C                  Em             Am                       F           G   (f-g shorter here)
+There is something I can do I can get on the telephone and call you up baby
+C                    Em                 Am             F               G      
+honey, I know you'll be there to heal me, the love you give to me will free me
+C                    Em                       Am               F                  G      C    C C C
+And if you don't know the things you're feeling I can tell you darling, that it's sexual healing
+
+
+
+
+
+ALBUM:    Wild & You
+released October 7, 2011
+COMPLETE (need to check chord placement Wild and you)
+
+
+
+1. Nothing Much
+
+Capo 4, Key of B (G relative to capo)
+
+[Intro]
+G C G D G
+
+[Verse 1]
+G        D             G   
+I should lay my burden down
+G        A             D   
+I should lay my burden down
+G                   C               
+instead I cling him heavy to my head
+G             D             G   
+when I should lay my burden down
+
+[Verse 2]
+G D                 G  
+I ought to leave my man
+G A                 D  
+I ought to leave my man
+G               C               
+instead I sleep heavy on his bed
+G      D                 G  
+when I ought to leave my man
+
+[Chorus]
+G                 C            G                D      
+hold my heart and hold my waist the whole night through
+G                 C            G         D      G  
+hold my heart and hold my head until the day is new
+
+[Interlude]
+C G D G  x2
+
+[Verse 3]
+G             D             G   
+everything up here froze to Ice,
+G               A             D    
+everything that once was very nice.
+G                                   C                            
+there is nothing much that I can do until spring time will arrive
+      G             D             G   
+since everything up here froze to ice.
+
+     D                    G        
+when home sweet home seems far away
+  D               G    
+I find a place to rest.
+C                  G            D                G    
+on your well grown beard I lay, upon your homely chest
+
+[Chorus]
+
+G         D      G  
+until the day is new
+
+
+
+
+
+2. Oh Kiss No
+
+Capo 3, key of Cm (Am relative to capo), Am chords (Am G) or just use the bar chords and no capo
+
+[Verse 1]
+      Am                                       G  
+Oh my man he don’t like kissing, now what do I do?
+        Am                              G  
+He gets restless after just a minute or two
+   Am                                             G    
+he says he has to go fix the record or polish his boots
+    Am                               G    
+and I’m left lonely, pulled up by my roots
+
+[Chorus]
+   Dm                        Em                            
+He plays his guitar for hours and takes really long showers
+    F                                G     
+But my lips have to sit and wait and hunger
+   F                              G     
+as if he told me to please take a number
+
+[Verse 2]
+Am                         G    
+I have patience to fill up caves
+    Am                               G     
+But sometimes I feel like go digging graves
+   Am                               G   
+If he don’t give me kisses soon and many
+     Am                                     G    
+I’ll drop and wiggle down the street like a penny
+
+[Chorus]
+
+
+
+
+3. Wild & You          https://youtu.be/ZajORpAAkao?t=489
+
+Live version has lots of muffled chords, definitely 7ths at the end
+/   / / . / / .
+1 + 2 + 3 + 4 +
+I  D  557775 A|5  D7  557575
+IV G  355433
+V  A  577655
+   C# A|4 (single beat slides from D, D.DD.C#D.)
+   F  A|8 (double beats from D, D.DD.FF.)
+
+Key of D
+
+[Verse 1]
+D                                                
+I’m so wild about you baby, half would be enough.
+       G                                                   D     
+I’m so wild about you honey, makes being without you awful tough.
+         A                                    D     
+I’ll run far for your loving, until I lose my breath
+
+D                                                     
+I spend most of my life now dreaming dreams about you.
+        G                                    D   
+I spend most of my life now dreaming baby of you.
+         A                            D    
+Now what would I do if they ever come true?
+
+D                                          
+Still my answer is yes to whatever you say.
+      G                                  D   
+Oh my answer must be yes to whatever you say.
+      A                                        D    
+Cause you make me feel like a real deal loving mess.
+
+D                                                   
+Oh what is it with our nerves rubbing on each other?
+   G                                          D     
+Oh what is it with our nerves rubbing on each other?
+     A                                     D     
+They shimmer and we shine like electricity lines.
+
+D                                                
+I’m so wild about you baby, half would be enough.
+       G                                                   D     
+I’m so wild about you honey, makes being without you awful tough.
+         A                                    D     
+I’ll run far for your loving, until I lose my breath
+                 D7 C#7 D7
+and fall into my death
+
+
+
+4. Good Night Heart
+A cappella, but these are the chords
+
+Capo 1, Key of A♭ (G relative to capo)
+
+[Verse]
+        G                       C             G                         D   
+I would say I’ll see you in the morning but I know all the good will be gone
+     G                       C              G         D        G    
+it’s clear you sadly have to leave now so I wave good bye good heart
+         G               C               G                 D   
+when the night is slowly sleeping and we come to the final tune
+  G                    C             G       D       G   
+I hold you close to me darling and I hope to see you soon
+
+
+
+
+5. Through & Through
+https://youtu.be/12d7xqDyyKo?t=1070
+Like much of My Bubba's music it has a swing rhythm (1 +2 +3 +4 +).
+The chorus is strummed:  d ud u~ ud u   occasionally, d UD UD UD u, thumb on first beat, fingers on the rest, genrally.
+
+F6 (or Dm7) xx0565  (Used also in Through and Through)
+
+
+Capo 4 (Capo at 5 on the album)
+
+Key of E (C relative to capo)
+
+[Verse 1]
+                 C       Am        Em      F   A7    F6      G                         
+e|------0------|-----------------|-----------------|---5-------------|----------------|
+B|-----0-3-1---|-----1-------1---|-----0---1-----2-|-----6-------6-3-|-0(0)-----------|
+G|----0--------|-------0-------2-|-------0---2-----|-------5---4-----|---0------------|
+D|---2---------|-----2-------2---|-----2---3---2---|-0-------5-------|---0------------|
+A|--3----------|-3-------0-------|-----------------|-----------------|----------------|
+E|-------------|-----------------|-0---------------|-----------(rit.)|---3------------|
+             You come    like a... you come and you...my car..that is my life
+
+    G       F6  G     C                 
+e|----------5-------|-----0-----0------|
+B|----6-----7-------|-----1-------1----|
+G|------4---5-----0-|-------0-------0--|
+D|--5-----5-0-------|------------------|
+A|--------------2---|-3----------------|
+E|--------------3---|------------------|
+and like my life, it ca...around.  I'd give...
+
+    C    Am                 Em  F A7              F6         G                 
+You come like a tornado you come and you mess up my car my car that is my life,
+    G       F6      G           C     
+and like my life it carries me around.
+
+[Chorus]
+    F                               C                            G                       C  
+I’d give, I’d give the whole lot to you, I’d do it all-ways, all-through oh my hero, for you
+    F              C                              G                         C   
+I’d lay, lay down across the railroad tracks with you I swear I think it is true
+
+
+[Verse 2]
+   C       Am        Em      F   A7    F6                A7               
+e|-----------------|-----------------|-5---5-----5-----|-----0-----0-----|
+B|-----1-------1---|-----0---1---2---|-6-----6-----6---|-----2-------2---|
+G|-------0-------2-|-------0---2-----|-5-------5-----5-|-------0-------0-|
+D|-----2-------2---|-----2---3---2---|-0---------------|-----------------|
+A|-3-------0-------|-----------------|-----------------|-0---------------|
+E|-----------------|-0---------------|-----------------|-----------------|
+You burst...
+
+   F       F6  G     C                
+e|---1-----5-------|---0-------0-----|
+B|-----1---6-------|-----1-------1---|
+G|-------2-5-----0-|-------0-------0-|
+D|-3-------0-------|-----------------|
+A|-------------2---|-3---------------|
+E|-------------3---|-----------------|
+
+    C         Am            Em   F A7              F6                                A7       
+You burst you burst into my soul you crash all the fragile things that I polish each night mm,
+F6                G            C     
+that I polish and worship each night.
+
+    C         Am            Em   F A7                         F6                   A7    
+You lick you lick the cream off my skin you rub the steam off my brim so gallantly frail,
+    F6                G            C   
+I’m floating in soap and water for you.
+
+[Chorus] x2
+
+[Outro]
+F C G C  x2
+
+
+
+
+
+ALBUM:  -  How it’s done in Italy
+released March 8, 2010
+COMPLETE (except intro to Bubba's Blues)
+
+
+1. Gone  https://youtu.be/ZajORpAAkao
+
+At Kex Hostel and other live performances they turned this into a round. Repeating the chorus twice at the end with Bubba beginning as My sings, "walk the streets..." Because the last phrase is repeated they end in synch.
+
+Key of E (E G A)
+
+[Verse 1]
+   E               G                 A              E    
+oh honey you're so strong like chili powder in your arms,
+         G                 A            A             E   
+when you hold me in them I never have a chance to get away
+
+[Chorus]
+    E                 G               A             E  
+I'm with you when I'm gone I walk the streets on my own
+                    (round)  I'm      with you whe..gone
+          E              G              A              E   
+all night long all night long all night long all night long
+
+
+[Verse 2]
+   E               G                 A              E   
+oh honey you're so strong like chili powder in your arms
+           G                  A              A            E  
+how do you make time to be so juicy like pineapple in the sun
+
+[Chorus]
+
+[Verse 3]
+    E         G               A             E   
+and everybody knows pineapple-chili is what goes
+       G              A             A             E    
+best together in this world in this world in this world
+
+[Chorus]
+
+Guitar sample at Gladden house
+e|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|--0------------------------------------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+
+
+
+
+2. Bubba’s Blues
+
+G   355400 G6
+B   799877
+Em  779987
+C   335553
+
+Key of G
+
+[Intro] INCOMPLETE...
+e|----------1-0-------8-7-5-----------------------------|
+B|------3-0-----3-3-0-----------------------------------|
+G|----------------0-------------------------------------|
+D|------0-----------------------------------------------|
+A|------------------------------------------------------|
+E|--3-------3-3-3-----3-3-3-----------------------------|
+
+G                                                               
+It's seven in the morning, and I'm building a tree house for two
+      D                             G               
+let's make up the mess we made from mayhem and chess
+
+[Chorus]
+B        Em             C     G   
+there is silence on the other side
+B        Em     C               G    
+moon and mills, pockets full of pills
+B      Em      C            G     
+trying hard to stay off the track,
+B      Em            C          G   
+but my wonderment is you in the sack
+
+[Interlude]
+(verse then chorus chords)
+Gx8 Dx2 Gx2
+B Em C G x4
+G G G
+
+G                                                            
+it's eight in the evening, having difficulties with my dreams
+G                                                            
+it's eight in the evening, having difficulties with my dreams
+    D                       G                                  
+be aware of-- the robots in here they might just lick your hair
+
+[Chorus]
+
+[Outro]
+(verse then chorus chords)
+Gx8 Dx2 Gx2
+B Em C G x4
+
+
+
+
+3. Steamengeene
+
+Parenthetical chords are moments with an added note within the measure.
+
+Pinky finger changes C to C9 to C7
+Cadd9  x32030
+C7     x32310
+and F to F7
+F7     xx3231 ?? wrong name, Dm/F
+
+
+Capo 5, Key of F (C relative to capo)
+
+[1]
+C                                C7
+Oh steam engine accompany my heart
+F                       
+birds exploding from joy
+C          A7      D7  G7   C   A7  
+shoe shave is fine now is a goldmine
+A7          D7    G7     C           A7    D7   G7   C  A7  
+sugar sugar sugar you're back on the beach with your darling
+    D7          G7            C   
+I'm back in the woods with my dear
+
+G7     C  (C9  C7)   F   (F7)   C  A7  D7  G7  C  A7  D7  G7  C
+Oooo   ooh
+
+[1]
+G7        C                             C7
+Oh        steam engine accompany my heart
+F                       
+birds exploding from joy
+C          A7      D7  G7   C   A7  
+shoe shave is fine now is a goldmine
+A7          D7    G7     C           A7    D7   G7   C  A7  
+sugar sugar sugar you're back on the beach with your darling
+    D7          G7            C   
+I'm back in the woods with my dear
+
+G7     C A7 D7 G7  C A7 D7 G7  C A7 D7 G7  C
+Oooo   ooh
+
+
+
+
+4. Really Really (A Zombie Gospel)
+
+capo 5, key of F (C relative to capo)
+
+(Intro base only)
+                  C                    
+My intestines are warm holding your arm
+               F                      C  
+you slipped it under there, with your paw
+
+                  C                    
+My intestines are warm holding your arm
+               F                      C  
+you slipped it under there, with your paw
+
+          F                     C   
+oh I will see you soon with the moon
+              C             
+and the great walls of waves
+
+around us around, stay gold
+                  F          
+who taught you to freeze huh?
+                  C             
+why aren't you as warm and fluid
+
+as I know you can be
+
+                   C                           
+we're all here, hang loose no moose is too huge
+              F                 C                         F               
+live it leave it, I'll love you more, yeah when you're in hell, keep going
+           C    
+I love you more,
+             F                C
+and Hemingway with a shotgun!
+
+
+
+
+
+5. Satisfied mind 03:40
+
+Capo 4, key of B (G relative to capo)
+
+[Intro]
+(keyboard starts playing G notes)
+G G G G C C G
+
+G                       C             G  
+How many times Have you heard someone say
+G             C                      G   
+"If I had his money I'd do things my way"
+G               C                         G   
+How little they know That it's so hard to find
+G                 C                        G   
+One rich man in a hundred With a satisfied mind
+
+D D D D G C G
+
+(verse left off the album version?)
+Once I was living In fortune and fame
+And everything I could dream of To get a start in life's game
+And suddenly it happened I lost every dime
+But I'm richer by far With a satisfied mind
+
+   G                       C                 G  
+No money can buy back Your youth when you're old
+     G                  C                              G   
+Or a friend when you're lonely Or a heart that's grown cold
+   G                       C                 G  
+And the world's richest man Is a pauper at times
+G               C                    G   
+Compared to the man With a satisfied mind
+
+     G                   C               G  
+When my life is over And my time has run out
+   G              C                                 G    
+My friends and my loved ones I'll leave, there's no doubt
+   G                      C                         G   
+But there's one thing for certain When it comes, my time
+     G              C                      G   
+I'll leave this old world With a satisfied mind
+
+D D D D G C G
+G
+
+
+
+
+6. I Will Never Love a Young Boy Again
+(My Bubba & Mi)
+see separate file for my tab
+https://youtu.be/uNObEnYEFCs
+
+
+7. Hwaii Blus
+
+No Capo, Key of A (with brief bluesy moves to Am)
+
+
+    A      (Am) A   A      (Am) A       A                                 
+e|------0-------0-------0-------0----|------0-----0-------0-------0------|
+B|------2---1---2-------2---1---2----|------2-------2-------2-------2----|
+G|--------2-------2-------2----------|--------2-------2-------2-------2--|
+D|----------2---------------2--------|-----------------------------------|
+A|--0---------------0----------------|--0--------------------------------|
+E|-----------------------------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+or Capo 2 G
+or Capo 4 F
+
+    F                                   F                                 
+e|-----------------------------------|-----------------------------------|
+B|------1-------1-------1-------1----|------1-----1-------1-------1------|
+G|------2---0---2-------2---0---2----|------2-------2-------2-------2----|
+D|--------3-------3-------3----------|--------3-------3-------3-------3--|
+A|----------3---------------3--------|-----------------------------------|
+E|--1---------------1----------------|--1--------------------------------|
+
+or Capo 5 E
+
+A                                                     
+I only lie when I’m sleeping and maybe in those dreams
+       D                                        A     
+I only lie when I’m sleeping and maybe in those dreams
+  E        D         A        
+I dream of you in my bay [bed]
+
+A                                    
+I’m stayin’ at the ComeonIwannalayya’
+    D                          A     
+I’m stayin’ at the ComeonIwannalayya’
+E  D      A   
+how about you?
+
+A                                         
+honey milk, honey milk lay me in the shade
+      D                              A    
+honey milk, honey milk lay me in the shade
+    E        D             A  
+and tell the sharks to go away
+
+[Chorus]
+F#m          D          A       
+sugar booger don’t wait too long
+F#m          D                      E    (walkdown)
+sugar booger don’t you dare to wait too long
+
+A                                                        
+it’s Hawaii it’s Hawaii that’s where it’s at lay your hat
+     D                                    A              
+it’s Hawaii it’s Hawaii that’s where it’s at lay your hat
+E  D   A    
+in the waves
+
+A                                  
+I’m a turtle for you or a palm leaf
+         D                     A   
+I’m a turtle for you or a palm leaf
+    E                 D              A                           
+I’m something you can eat before you sleep and I dream inside you
+
+A                                                            
+chocolate milk, chocolate milk been sippin’ it all night long
+          D                                              A   
+chocolate milk, chocolate milk been sippin’ it all night long
+  E                             D                  A               
+belong, life long, where’s your sense of right and wrong? Get along
+
+[Chorus]
+  F#m          D              A   
+a brazen hussy layin’ at your feet
+  F#m          D              E   
+a brazen hussy layin’ at your feet
+        (walkdown)   A
+cocoa cavities in my teeth
+
+
+
+
+
+8. After you 03:22
+
+I'm not great at lyrics. The donkey harp may refer to the bray harp.
+
+I  Bm  224432 or Em|7 799777
+IV Em  022000 or Am|7 779987
+V  F#  244322 or A|9 9 9 11 11 11 9
+VI G   355433
+
+Standard, no capo, key of Bm
+
+[Intro]
+F#  Bm F#
+
+[Verse 1]
+Bm                            
+After you pushed my heart over
+Em                  
+I was out for a week
+F#                                Bm    F#
+I could feel it beating under the sheet
+
+[Verse 2]
+Bm                                         
+I'm all nerves you think I look like a harp
+         Em                                    
+now your shoes on my belly the bed full of dirt
+      F#                               Bm    F#
+but I feel it beating softly under the sheet
+
+[Chorus]
+           Bm                  Em   
+when I get lazy I act like I'm crazy
+         G      F#                           Bm  F#
+but your manners, just send me straight into bed
+            Bm                                   Em   
+you and the rest of you's, boots and all and the fever
+           G       F#              Bm   F#
+the donkey harp heart is still the king
+
+[Interlude]
+Bm  Em  G F#  Bm  F#
+
+[Verse 3]
+Bm                       
+sure you can make me blue
+        Em                               
+but you can't change how I feel about you
+F#                              Bm    F#
+I can feel it beating under the sheet
+
+[Verse 4]
+Bm                            
+After you pushed my heart over
+Em                  
+I was out for a week
+F#                                Bm    F#
+I could feel it beating under the sheet
+
+[Chorus]
+
+[Outro]
+Bm  Em  G  F#  Bm
+
+
+
+
+9. Blinde state 04:07
+
+Capo 2 Key of D (C relative to capo)
+
+[Intro]
+    C                                   C                                 
+e|----------------------0---3-3-3-0--|----------------------0-----0------|
+B|------1---1-3---1-----1--------(1)-|------1---1-3---1-----1-------1----|
+G|--------0-----0---------0----------|----0---0-----0---------0-------0--|
+D|------2----------------------------|------2----------------------------|
+A|--3---------------3----------------|--3---------------3----------------|
+E|-----------------------------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+
+[Verse 1]
+    C                                   F               C                 
+e|-----------------------------------|-----------------------------------|
+B|------1-----1---------1-----1------|------1-----1---------1-----1------|
+G|--------0-------0-------0-------0--|--------2-------2-------0-------0--|
+D|------2-------2-------2-------2----|------3-------3-------2-------2----|
+A|--3---------------3----------------|------------------3----------------|
+E|-----------------------------------|--1--------------------------------|...
+    If you are      tired of            seeing          things  come and
+
+C                   F      C     
+If you are tired of seeing things
+         C                           G     
+come and find a blind state I have designed
+       C                         F             C   
+we can walk with our nose we can talk with our toes
+                C          G       C     C F C G C
+through tactile trails and smell details
+
+[Chorus/Bridge]
+F                    C   
+smooching, pineapple rag,
+F                    C   
+smooching, pineapple rag,
+G  F    C  
+mm make out
+
+
+[Verse 2]
+
+C                  F        C     
+It’s ever dark but don’t be scared
+        C                              G   
+take my hand, we can walk the long way home
+C                                     F        C   
+cause we’re off the hook from devil’s tool facebook
+        C                     G        C     C F C G C F C G C
+take my hand, we can walk the long way home
+
+[Chorus]
+
+
+C                     F        C  
+But beware, keep your nostrils far
+ C                  G   
+away from the maple tree
+       C                     F               C     
+poison earwax birds may sing sweet, but when heard,
+       C            G     C  
+you’ll drown in the south sea
+       C            G     C  
+you’ll drown in the south sea
+
+
+
+last C
+e|------------------0--|
+B|------1---1-3---1----|
+G|--------0-----0------|
+D|------2--------------|
+A|--3------------------|
+E|---------------------|
+
+
+
+
+
+
+10. Apple spell 03:25
+
+https://www.youtube.com/watch?v=ekoqHjcMAsU
+
+The album version is plucked banjo. At first I thought there was a Dm in the chorus like at the end of the verse but it's an F. An early live performance before recording the album used guitar (https://www.youtube.com/watch?v=ekoqHjcMAsU). In that the chorus was strummed:
+    d dud dududu udu
+    1+2+3+4+5+6+7+8+
+    Am  C   F  E                           
+
+
+No capo, key of Am
+
+[Intro]
+Am  C  Am  C
+
+[Verse 1]
+Am                                               C                   
+an image in my mind, but a place is hard to find in the break of dawn
+Am                                               C           Dm  E 
+everything is green, nothing as it seems but the music moves me, oh
+
+
+[Chorus]
+Am  C   F  E
+
+    Am    C      F         E       
+the Apple spell, it tastes so well,
+      Am          C         F       E   
+let’s move in the rhythm of sinking soul
+         Am     C                    F         E   
+when the lights move on low all gets thick and slow
+    Am          C      F       E   
+the accident of touch, says so much
+Am     C           F     E      
+if I bewilder you, you do it too
+    Am        C       F   E
+the rhythm of sinking soul,
+     Am      C  F   E
+keeps playing
+
+[Verse 2]
+Am                                           C   
+tick tack on the wall life moves too fast to fall
+Am                     C          
+so sing me to sleep, before you go
+Am                                            C               
+as you bewitched my body and soul you have to sing me to sleep
+   Am            C          
+before you go, before you go
+   Am                C                
+so, sing me to sleep, sing me to sleep
+   Am                C                
+so, sing me to sleep, sing me to sleep
+
+Am  C  Am  C
+
+  (Am)              (C)               
+so, sing me to sleep, sing me to sleep
+  (Am)              (C)               
+so, sing me to sleep, sing me to sleep
+
+
+The early version included this as the first verse:
+
+Passing through the snow, feeling mighty low, cause I tend to want to be with you
+Hold you in the day but I sing, I sing these songs you play
+I swim, sleep and sing and all the thoughts that I think fit in my memory
+was rushing through my ear and you you take me high and low
+you take me high, and so low
+
+
+
+
+
+ALBUM: My Bubba & Mi - BOB
+2 songs
+
+
+1. BBQ Bob (A-side)
+
+(no capo)
+
+Em                              G       Em                          G   Em                           G       
+BBQ Bob flipping burgers in the kitchen BBQ Bob fries up a storm in bed BBQ Bob sniffing coke in the basement
+D   C          G  
+Ooo-oh, what a man
+
+Em                                    G      Em             G     Em                                 G   
+Cinnamon Sam been out looking for his mother all the way to Japan Cinnamon Sam, he sure knows how to roll
+D   C          G  
+Ooo-oh, what a man
+
+[interlude (verse cords with banjo solo)]
+
+Em        G      Em                 G     Em                       G   
+Crocodile Dundee found a jewel in a swamp holds his hand around my neck
+D   C          G  
+Ooo-oh, what a man
+D   C          G  
+Ooo-oh, what a man
+
+
+
+
+2. You're Gonna Make Me Lonesome When You Go (B-side)
+(Bob Dylan cover)           
+see separate file for my tab
+file:///E:/Art/Music/SheetMusic/Guitar/My%20Bubba%20-%20You%27re%20Gonna%20Make%20Me%20Lonesome%20When%20You%20Go%20(Bob%20Dylan%20cover)%2Etxt
+
+https://youtu.be/IsNnDw05EAc
+
+
+
+
+ALBUM: JINGLE BELLES
+
+Olde timey radio jingles with a twist...
+
+
+
+
+1. How It's Done In Italy
+
+Capo 7 (C-chords, key of G)
+
+[Intro]
+C Am C Am
+
+C                           Am         C                 Am 
+Three girls in front of the holy land, With their camera man
+singing their sexy song, they can do nothing wrong
+
+Ignoring what the wise men said, they're gonna to do it any way.
+                                    F           G 
+That's how it's done in Italy, XXXX My, Bubba & Mi
+
+[Announcement]
+(My)
+C                               Am                            C              
+For your very own copy of How It's Done In Italy come up to us after the show
+(Bubba)                                                                   
+               Am                                  C               Am F  G
+We've got both CDs and vinyls and they all sound so mmmm so good!
+
+[Outro]
+That's how they lost their virginity(?), in Italy
+             Am              F               G  
+now they are free, but still they never site see
+
+C    Am         C   Am         C    F  G          C   
+      My Bubba & Mi, My Bubba & Mi      My Bubba & Mi.
+
+
+
+
+
+2. My Bubba & Mi Ice Cream Face Cream
+
+[Radio Ad]
+F                                  C            
+If you want your skin to feel like silk and lace
+F                    C                 
+Apply our super soft cream on your face
+F                                                                    
+All our pleasure is such delight, skin bright as a midsummer's night.
+
+The sea and science serve your natural beauty, make your face feel like a baby's booty.
+It's made out of seaweed, it’s a youth fondue, and it works on those wrinkles too.
+
+[Announcement]
+Ask your local dermatologist for My Bubba & Mi Ice Cream Face Cream
+And if they don't carry it make sure they order some home for you.
+
+[Outro]
+     F                                                                            
+It's made out of seaweed, it’s a youth fondue, and it works on those wrinkles too.
+
+
+
+
+
+3. My bubba - Hello Jingle Factory Jingle
+https://hellojinglefactory.bandcamp.com/track/hello-jingle-factory-jingle
+The jingle for the Hello Jingle Factory.
+
+HELLO (Jingle Factory)
+
+Hello is the place to go
+when You want people to know
+how far You can go
+
+We’ll fix You right up with a golden glow,
+people will say Whoah after Your show!
+
+Hello – It will bring You lots of dough,
+You’ll be like Marilyn Monroe
+- Just say Hello!
+
+MACLAND (Apple computer store)
+
+If Your Apple is bad, and it makes You raving mad
+Come to Macland; We’ll make it fine, make it shine!
+- You can call Our Hotline!
+
+Or if you need supplies, like hot apple pies,
+at Macland We promise You the best prize,
+ooo – Ain’t telling lies!
+
+At Macland, We always give a big helping hand,
+Our knowledge is as wide as the Rio Grande,
+So if You want Your Apple to be fine and obey
+be sure to come here Today
+- You’ll say hooray!
+credits
+from Selected Jingles, released June 3, 2012
+
+
+
+
+ALBUM: My Bubba - Big Bad Good
+
+
+
+1. Charm
+
+lyrics from Google (pretty sure are wrong: "water, oh" should be "waterloo"???)
+https://youtu.be/yGoMoWqj0rE
+https://youtu.be/zj3gjBJbqeM
+
+The tabbed portions are mostly from the first link, a live version. The album version has a second guitar overlaying some notes.
+
+C        [x32010]
+Am       [x02210]
+F        [133211]
+G        [320003]
+Em       [022003]
+
+Cmaj7/B  [x2x010]
+Emno5    [xxx980]
+Dm(9)no5 [xxx760]
+
+          >       > 
+Rhythm:?  1  2 3  4  5 6
+          1+ 2 +  3+ 4 +
+
+1st Em
+    G             Emno5  Dm(9)     C                   
+e|----1-1----1-1----0------0----|----0-0----0-0------|
+B|----0-0----0-0--8---8--6---6--|----1-1----1-1------|
+G|----0-0----0-0--9---9--7---7--|----0-0----0-0------|
+D|---------0--------------------|---------2----------|
+A|------------------------------|--3-----------------|
+E|--3---------------------------|--------------------|
+    1 2 3  4 5 6  1 2 3  4 5 6            
+
+Last Em
+    G             Em              Outro... (differs/recording)
+e|----3-3----3-3----3-3----3----|---0--- 
+B|----0-0----0-0----0-0----0----|---1--- 
+G|----0-0----0-0----0-0--0---0--|---0--- 
+D|---------0------2-------------|-2----- 
+A|------------------------------|------- 
+E|--3---------------------------|------- 
+                  P      P   i 
+
+Key of C
+
+[Intro]
+C Am C Am
+
+C                           Am   
+All I'm promising you is my charm
+C                              Am  
+And that can't do you too much harm
+
+F                   C     CM7/B  
+I've given up the water, oh
+F                   C  G  Emno5 Dm(9)
+I've given up the waterloo
+
+C      Am                     C
+A woman needs to feel precious
+       Am                 C
+Fallen fruit, To see a suit
+Am                 C
+To disappear in bed
+                    Am  
+To have access to a shed
+
+F                          C               C CM7/B
+She loves children for they feed inside her
+F                 C         G              Emno5 Dm(9)
+She loves children for they feed inside her
+
+C                           Am   
+All I'm promising you is my charm
+C                           Am 
+And that can't do you much harm
+
+F                   C    CM7/B   
+I've given up the water, oh
+F                   C  G Em
+I've given up the water, oh
+
+[Outro]
+    C             C   >            Am                                
+e|----0-------------0-0----0-0--|----0-0----0-0----0-0----0-0--|
+B|------1----1------1-1----1-1--|----1-1----1-1---p0-0h---1-1--|
+G|---------0---0----0-0----0-0--|----2-2----2-2----2-2----2-2--|
+D|--2-------------2---2---------|---------2-------------2------|
+A|-----------------------3------|--0-------------0-------------|
+E|------------------------------|------------------------------|
+                                                                                
+    C             C                Am                             C
+e|----3-3----3-3----0-0----0-0--|----0-0----0-0----3s5--3-1-0--|--0-|
+B|----1-1----1-1----1-1----1-1--|----1-1----1-1----------------|--1-|
+G|----0-0----0-0----0-0----0-0--|----2-2----2-2----------------|--0-|
+D|---------2------2-------------|---------2--------------------|--2-|
+A|--3--------------------3------|--0-------------0-------------|-(3)|
+E|------------------------------|------------------------------|----|
+
+
+
+
+ALBUM: misc songs
+
+1. Nothing Brings Me Down tab by Emilíana Torrini
+
+	DADGAD incorrect (it's DADFAD which makes it easier)
+
+Tuning: DADGAD
+
+	"Uuu-part" and verses:
+	   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 5 + 6 + 7 + 8 + 5 + 6 + 7 + 8 +
+	d|---------------0---------------0---------------0---------------0-|
+	a|-------0-----0---------0-----0---------0-----0---------0-----0---|
+	g|-----4-----4---------4-----4---------2-----2---------2-----2-----|
+	d|---7-----7---------7-----7---------5-----5---------5-----5-------|
+	a|-5---------------5---------------3---------------3---------------|
+	d|-----------------------------------------------------------------|
+
+Tuning: DADFAD
+
+	"Uuu-part" and verses:
+	   1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 5 + 6 + 7 + 8 + 5 + 6 + 7 + 8 +
+	d|---------------0---------------0---------------0---------------0-|
+	a|-------0-----0---------0-----0---------0-----0---------0-----0---|
+	F|-----6-----6---------6-----6---------4-----4---------4-----4-----|
+	d|---7-----7---------7-----7---------5-----5---------5-----5-------|
+	a|-5---------------5---------------3---------------3---------------|
+	d|-----------------------------------------------------------------|
+
+Tuning: EADGBe
+
+	In standard it's
+	e|-------------------|
+	B|-----0-----0---3---|
+	G|---2---2-2---2-----|
+	D|-0-----------------|
+	A|-------------------|
+	E|-------------------|

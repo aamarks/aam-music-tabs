@@ -1,0 +1,160 @@
+Las Cafeteras - Luna Lovers
+
+This song is Gm F C Dm, all the way through.
+It's played on some strange Mexican instruments that I had never heard 
+of until figuring this out.
+
+The 8-string used for the rhythm is a Jarana jarocha with the typical 
+5 courses: single string, three double strings and another single.
+tuned [G C E A G], but you can play the chords on a guitar or uke.
+
+The 4-strings are probably Jarana Jarocha Requintos tuned almost
+like the guitar's 2nd-5th strings, except the B is tuned up a half to C.
+It's a little easier to play that way but I've tabbed it standard.
+If you tune A2•D3•G3•C3 like they do just play one fret down on the B-string. 
+The lead 4-string continues fingerpicking like the intro into the song.
+He continues the solo into the last verse. Even a tenor uke doesn't go 
+low enough to play the notes on the D-string, but you could pick out 
+the chords in your own way.
+--Art
+
+
+Chord table showing relationship between instruments:
+                            Gm       F        C        Dm
+Tuning: GCEAG    Jarocha    [02310]  [30103]  [00030]  [02100]
+Tuning: GCEA     Uke        [0231]   [2010]   [0003]   [2210]  
+Tuning: ADGC     Requinto   [1002]   [0320]   [3200]   [0322]
+Tuning:EADGBe    Guitar     355333   133211   032010   x00231
+                            Gm       F        C        Dm
+
+
+Standard guitar tuning, no capo, key of Gm
+
+
+[intro]
+   Gm        F            C            Dm                    
+ |---------------------------------------------------------------|
+B|-----3-3-------1------------1--------------3-------------------|
+G|-0--3-3-------2---2--2-----0---0---0-----2--2------------------|
+D|-----------3-------3----2-------2----0--3-----3----------------|
+A|---------------------------------------------------------------|
+ |---------------------------------------------------------------|
+
+   Gm        F            C            Dm                    
+ |---------------------------------------------------------------|
+B|-----3--3-----1---1--------1---------------3-------------------|
+G|-0--3--3--3----2---2--2-----0--0---0-----2--2------------------|
+D|-----------3------------2-------2----0--3-----3----------------|
+A|---------------------------------------------------------------|
+ |---------------------------------------------------------------|
+
+Gm        F   C   Dm
+Walk with me  lu--na
+Gm        F   C   Dm
+Walk with me  lu--na
+
+[verse 1]
+       Gm    F            C         Dm
+So the story goes that my heart met yours
+    Gm         F         C      Dm
+You touched my soul it's you I adore
+     Gm        F         C         Dm
+It's your beauty where I feel most free
+     Gm      F           C        Dm
+It's you and me and it's plain to see
+
+  Gm        F       C      Dm
+I do I do I do I do I love you
+  Gm        F       C      Dm
+I do I do I do I do I love you
+
+[chorus]
+         Gm        F       C           Dm
+Wont you walk with me Luna through the dark
+         Gm        F       C           Dm
+Wont you walk with me Luna through the park
+         Gm      F            C    Dm
+Wont you take my hand help me understand
+Gm      F            C            Dm
+Take my hand walk me through your land
+Gm      F       C       Dm
+                Luna Luna
+
+[verse 2]
+       Gm        F    C         Dm
+Well I travel so far across the land
+        Gm     F   C   Dm
+And I'm asking you  to stand
+Gm          F                 C          Dm
+Stand by my side (by my side)  and come along 
+     Gm          F                      C           Dm
+With me down the river (down the river) singing the song
+
+[chorus]
+         Gm        F       C           Dm
+Wont you walk with me Luna through the dark
+         Gm        F       C           Dm
+Wont you walk with me Luna through the park
+         Gm             F            C    Dm
+Wont you take (take) my hand help me understand
+         Gm             F            C            Dm
+Wont you take (take) my hand walk me through your land
+Gm        F       C       Dm
+                  Luna Luna
+
+[interlude]
+Gm   F  C    Dm  x3
+
+[solo]
+   Gm            F              C                   Dm                    
+ |-----------------------------------------------------------------------|
+B|-13---11-10----13---11-10--------10-11--10-13--15-13--11-10--11-10--13-|
+G|------------10------------10--10---------------------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+ |-----------------------------------------------------------------------|
+
+   Gm            F              C                   Dm                    
+ |-----------------------------------------------------------------------|
+B|-13---11-10----13---11-10--------10-11--10-13--11-15--13-11--10-11--10-|
+G|------------10------------10--10---------------------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+ |-----------------------------------------------------------------------|
+
+[verse 3]
+          Gm         F     C    Dm
+Hope this night will never ever end
+      Gm     F  C         Dm
+Maybe we can be more than friends
+        Gm       F         C     Dm
+Tell me words of truth and mystery
+        Gm     F         C    Dm
+Keep me here inside this memory
+
+[outro]
+          Gm       F             C      Dm
+Where the grass is green and the sky is high
+          Gm      F                C             Dm
+Won't you tell me tonight that you won't say goodbye 
+          Gm           F         C           Dm
+And we'll fly, We will fly, Luna through the sky
+        Gm           F         C           Dm
+We will fly, we will fly, Luna through the sky
+
+Gm        F    C     Dm
+  We will fly- 
+Gm        F       C    Dm
+  We will fly, Luna Luna
+Gm        F       C    Dm
+  We will fly, Luna Luna
+              Gm        F   C   Dm
+Lu-na  Lu-na (walk with me, Lu--na)
+              Gm        F   C   Dm
+Lu-na  Lu-na (walk with me, Lu--na)
+      Gm         F          C      Dm
+Aaii (I do I do, I do I do, I love you)
+      Gm         F          C      Dm
+Aaii (I do I do, I do I do, I love you)
+N.C.
+(fades) (I do I do, I do I do, I love you...) 

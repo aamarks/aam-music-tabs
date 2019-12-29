@@ -1,0 +1,114 @@
+Just For Us
+from Lost & Found by Corey Crowder 
+
+  listen: http://coreycrowder.bandcamp.com/track/just-for-us
+  vid: http://www.youtube.com/watch?v=F--fAbD9GWU
+ 
+  (He uses a capo, looks like on 4th fret so he must tune down a half step)
+
+Capo 3 (key of Eb)
+
+
+Intro x4
+       C...              (G/C)
+   e|--0--------0--------0------|
+   B|--1--------1--------1------|
+   G|--0--------0--------0------|
+   D|--0h2------2p0------0------|
+   A|--3--------0--------2------|
+   E|--x--------x--------3------|
+       1  2  3  4  5  6  7  8 
+
+   (continues something like that throughout the song, 
+   the F with 3rd string hammered...)
+
+C                              
+Baby’s got herself a new black dress 
+Put her pretty face on and then all the rest
+F 
+She was beautiful 
+
+C
+Well, I walked in and I looked like a mess 
+(I) saw frown on her face and hives on her chest 
+F
+It was beautiful 
+
+
+CHORUS
+              C                       G
+Baby’s got a new dress, baby’s got a new car
+                    Am                    F 
+With the summer sun steady running out of luck 
+                 C             G
+(But) out in the ocean in slow motion 
+          F            G               C
+There’s a message in a bottle just for us 
+
+
+C
+3 years later we were talking real tall 
+Bought a bunch of new clothes, a couple new cars 
+F
+To get us by 
+
+C
+With piles of bills and our heads on the wall 
+Summer left so fast and then came fall, 
+F
+We made it by 
+
+
+REPEAT CHORUS
+
+
+C
+Here in the city life seems so small 
+We make believe that we matter at all 
+F
+in this life 
+
+C
+She loves with her smile. She loves with her soul 
+Such a pretty little thing just helping me hold 
+F
+on tight 
+
+
+REPEAT CHORUS
+
+
+   credits from Lost & Found, track released 04 December 2009 
+   Tabbed by --Art
+
+
+
+
+After listening further a minor correction (got rid of the pulled note on the c-chord) and a bit more detail on the tab:
+
+Verses:
+for the C-chord of the verses 
+       C...    (Am7)    (G)
+       \   /\/  \   /\/  \  \/
+   e|--0--------0---------------|
+   B|--1--------1--------1------|
+   G|--0--------0--------0------|
+   D|--0h2------2--------0------|
+   A|--3--------0--------2------|
+   E|--x-------(3)-------3------|
+       1  2  3  4  5  6  7  8 
+On the partial G play the low strings on the first down strum then the high strings on the following lighter strums.
+
+
+       F
+       \   /\/  \   /\/  \  \/
+   e|--1--------1--------1------|
+   B|--1--------1--------1------|
+   G|--0h2------2--------0h2----|
+   D|--3--------3--------3------|
+   A|-(3)------(3)------(3)-----|
+   E|-(1)------(1)------(1)-----|
+       1  2  3  4  5  6  7  8  
+I usually hold my thumb on the E-string for an F-chord, but really you're strumming just the 1st 4 high strings for this.
+
+You can hammer on a bit for the C's, F's, Am's in the chorus (2nd string for the Am)...

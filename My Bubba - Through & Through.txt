@@ -1,12 +1,12 @@
-My Bubba 
-
-Through & Through
+Through & Through - My Bubba 
 
 https://youtu.be/12d7xqDyyKo?t=1070
-Like much of Bubba's music it has a swing rhythm (1 +2 +3 +4 +).
+
+Like much of My Bubba's music it has a swing rhythm (1 +2 +3 +4 +).
 The chorus is strummed:  d ud u~ ud u   occasionally, d UD UD UD u, thumb on first beat, fingers on the rest, genrally. Tabbed by -Art.
 
 Capo 4
+
     C            C       Am        Em      F   Am7   F       G
 e|------0------|-----------------|-----------------|---5-------------|----------------|
 B|-----0-3-1---|-----1-------1---|-----0---1-----2-|-----7-------6-3-|-0--------------|
@@ -34,20 +34,26 @@ and like my life it carries me around.
 
 [Chorus]
     F                               C                            G                       C   
-I’d give, I’d give the whole lot to you, I’d do it all-ways, all-through oh my hero, for you 
+Iâ€™d give, Iâ€™d give the whole lot to you, Iâ€™d do it all-ways, all-through oh my hero, for you 
     F              C                              G                         C
-I’d lay, lay down across the railroad tracks with you I swear I think it is true 
-
-
+Iâ€™d lay, lay down across the railroad tracks with you I swear I think it is true 
 
 [Verse 2]
-   C       Am        Em      F   Am7   F                 G                  F      F   G     C
-e|-----------------|-----------------|-5---5-----5-----|---0-------0-----|---1-----5-------|---0-------0------|
-B|-----1-------1---|-----0---1---2---|-7-----7-----7---|-----0-------0---|-----1---7-------|-----1-------1----|
-G|-------0-------2-|-------0---2-----|-5-------5-----5-|-------0-------0-|-------2-5-----0-|-------0-------0--|
-D|-----2-------2---|-----2---3---2---|-0---------------|-----------------|-3-------0-------|------------------|
-A|-3-------0-------|-----------------|-----------------|-2---------------|-------------2---|-3----------------|
-E|-----------------|-0---------------|-----------------|-----------------|-------------3---|------------------|
+   C       Am        Em      F   Am7   F                 G                
+e|-----------------|-----------------|-5---5-----5-----|---0-------0-----|
+B|-----1-------1---|-----0---1---2---|-7-----7-----7---|-----0-------0---|
+G|-------0-------2-|-------0---2-----|-5-------5-----5-|-------0-------0-|
+D|-----2-------2---|-----2---3---2---|-0---------------|-----------------|
+A|-3-------0-------|-----------------|-----------------|-2---------------|
+E|-----------------|-0---------------|-----------------|-----------------|
+
+     F      F   G     C
+e|----1-----5-------|---0-------0------|
+B|------1---7-------|-----1-------1----|
+G|--------2-5-----0-|-------0-------0--|
+D|--3-------0-------|------------------|
+A|--------------2---|-3----------------|
+E|--------------3---|------------------|
 
     C         Am            Em   F Am7             F                                 G          
 You burst you burst into my soul you crash all the fragile things that I polish each night mm,  
@@ -57,10 +63,9 @@ that I polish and worship each night.
     C         Am            Em   F Am7                       F                    G        
 You lick you lick the cream off my skin you rub the steam off my brim so gallantly frail,  
     F                 G            C
-I’m floating in soap and water for you.
+Iâ€™m floating in soap and water for you.
 
 [Chorus] x2
 
 [Outro]
 F C G C  x2
-

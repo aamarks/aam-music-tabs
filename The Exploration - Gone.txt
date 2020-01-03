@@ -1,0 +1,93 @@
+The Exploration - Gone
+
+Tabbed for the released version: https://www.youtube.com/watch?v=q7oqlHwWRCQ
+But live shows how to play it: https://youtu.be/-DPXC1_HAko?t=2m47s
+
+Even though there's a capo 3 numbers are absolute frets.
+You can play this with two fingers on the left hand and
+just the index finger on the right. All notes are tapped,
+Some notes are held and later pulled to make either
+an open note or the note still held in the left hand 
+as indicated by a solid line.
+You could equate this to 4/4 time but it helps to count 3 and 5 or even 1 2 3  1 2 3  1 2
+Though chords aren't played, to better understand it, it's based off of Em C D C G.
+
+h hammer (tap) note
+p pull/release previous note making note indicated
+——held note
+L left hand
+R right hand
+
+Capo 3 (for the open release notes)
+    Em                   C
+    Gm                   D#
+e|---------------------|----------------------------------|
+B|--------------------------------------------------------|
+G|------------------h12————————————————————p(3-open with capo)
+D|------h8——h12—p(8)--------------------------------------|
+A|--h10------------------h6———————————————————————————————|
+E|---------------------|----------------------------------|
+    1   +   2   +   3    1     2     3     4     5
+    L       R   R(L)R    L                R        
+   "Growing up withoyou  was never all thatbad, you remember"
+
+    D                    C            G
+    F5                   D#sus2       A#
+e|---------------------|----------------------------------|
+B|--------------------------------------------------------|
+G|--------------h10——————————————p(3)---------------------|
+D|------h10p(3)----------------------h10s12—p(3)-h10—p(3)-|
+A|——p(3)-----------------h6-------------------------------|
+E|---------------------|----------------------------------|
+    1   2   +   3        1  2  3 +   4      +    5   +
+    L   R       R        L       R   R           R
+   "all those times,    that we never had"                                
+
+x8   
+
+(twice as intro and then once for each of the six stanzas)
+
+Growing up without you, was never all that bad
+You remember all those times, that we never had
+
+Without cause, I am lost, simply drifting with the dust
+Or the wind that takes with it all my trust
+
+Just a child, just a teen, or somewhere in between
+I had found out, I highly doubt that you'll ever make it back
+
+It's time to see my face sweetly turned away on the hate
+When I laid down every night, I would stare at the brilliant stars in the sky
+
+(drums kick in)
+
+Why did you leave? Are you too afraid to find?
+For what he did believe in, guess society is right
+
+Then watch me follow them then fall away into a life of grief
+I'll never be the man that you imagined I would be
+
+
+
+
+======================================================================================
+
+
+
+That's my correction of https://tabs.ultimate-guitar.com/t/the_exploration/gone_tab.htm :
+
+"Growing up without you..."
+E|-------------------------------------------------------|
+B|----------------h8-------------------------------------|
+G|------h3--h7p3-----------------------------------------|
+D|--h5---------------------------------------------------|
+A|--------------------h6--------------h10----------------|
+E|-------------------------------------------------------|
+
+"... all those times..."                                x8
+E|-------------------------------------------------------|
+B|----------------h6-------------------------------------|
+G|----------h5s7--------------------h5s7------h5---------|
+D|------------------------------h3--------h8------h3-----|
+A|--h3----------------h6---------------------------------|
+E|-------------------------------------------------------|

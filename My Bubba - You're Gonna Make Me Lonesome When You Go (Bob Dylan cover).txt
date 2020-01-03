@@ -1,0 +1,197 @@
+A Couple of Versions of My Bubba's cover of You're Gonna Make Me Lonesome When You Go
+
+1. You're Gonna Make Me Lonesome When You Go
+(Bob Dylan cover, https://youtu.be/IsNnDw05EAc)
+This is the mature version of picking. There's a version from 2009 that's simpler.
+
+Played with a syncopated rhythm,  1 +2 +3 +4 +  (but tabbed as steady).
+See the end for alternate version in another recording. The intro note is held for 2 beats (not what you want throughout the song on Em). Verses are numbered to match Dylan's original.
+
+key of B♭ (G relative to capo)
+
+Capo 3
+
+[Intro]
+    Em                                  C
+e|--------------------0-----3-0------|-----(0)------------0-------0------|
+B|----------0-----------0------------|------1-----1---------1------------|
+G|------------0---0-------0-------0--|--------0-----0---------0-------0--|
+D|--------------2---------------2----|----------0h2---2-------------2----|
+A|------------------2----------------|--3---------------3----------------|
+E|--0--------------------------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    P       m i P i P a m i a a P i     P   m i P m i i P a m i   a P i
+
+    G                                   D
+e|------3-----3-------3-------3------|------2---0---------2-------2------|
+B|------0---------------0-------0----|------3-----3---3-----3------------|
+G|--------0-------0-------0-------0--|--------2-----2---------2-------0--|
+D|--------------0--------------------|--0-------0-------0-----------0----|
+A|-----------------------------------|-----------------------------------|
+E|--3---------------3----------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    P   m i   a P i P a m i   a m i     P   m i Pam i m P a m i   a P i
+
+
+[Verse 1] (My)
+Em
+I've seen love go by my door
+C
+It's never been this close before
+G                           D
+'s never been so easy or so slow
+Em
+I've been shooting in the dark too long
+C
+When somethin's not right it's wrong
+G                    D                 G
+You're gonna make me lonesome when you go
+
+[Verse 3] (Bubba)
+Purple clover, Queen Anne's lace
+Crimson hair across your face
+You could make me cry now if you don't know
+But I can't remember what I was thinkin' of
+You might be spoilin' me with too much love
+You're gonna make me lonesome when you go
+
+[Verse 2]
+There are dragonflies so high above (they've sung dragon clouds too)
+I've only known careless love
+It always has hit me from below
+But this time around it's more correct
+Right on target, so direct
+You're gonna make me lonesome when you go
+
+[Bridge]
+D                                 G
+Flowers on the hillside, bloomin' crazy
+D                              G
+Crickets talkin' back and forth in rhyme
+A7
+A blue river runnin' slow and lazy
+Am(7)
+I could stay with you forever
+    D
+And never realize the time
+
+[Verse 4]
+But situations have ended sad
+Relationships have all been bad
+Mine have been like Verlaine's and Rimbaud
+But there's no way I can compare
+All them scenes to this affair
+You're gonna make me lonesome when you go
+
+[Bridge 2]
+You're gonna make me wonder what I'm doin'
+Stayin' far behind without you
+You're gonna make me wonder what I'm sayin'
+You're gonna make me give myself
+a good talkin' to
+
+[Verse 5]
+I will look for you in Honolu-lu
+San Francisco, Ashtabul(a)
+You're gonna have to leave me now, I know
+But I will see you in the sky above
+In the tall grass, in the ones I love
+You're gonna make me lonesome when you go
+You're gonna make me lonesome when you go
+
+
+2. You're Gonna Make Me Lonesome When You Go (Joe's Pub 6.9.15): https://youtu.be/dILNRY0YRf8
+
+Earlier more consistant pattern used at Joe's pub that's easier to begin with
+
+P thumb, a annular (ring), m middle, i index
+h hammer on (not plucked), occupies a 16th not interrupting the eighths
+
+Key of G
+
+[Intro]
+    Em                                  C
+e|------0-------------0-----3-0------|------0-----0-------0--------------|
+B|--------0-------------0------------|------1-------1-------1-----1------|
+G|------------0---0-------0-------0--|--------0-------0-------0-------0--|
+D|--------------2---------------2----|----------0h2-------------2---2----|
+A|------------------2----------------|--3---------------3----------------|
+E|--0--------------------------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    P ~ a m ~ i P i P a m i a a P i     P ~am i P a m i P a m i P m P i
+
+    G                                   D
+e|------3-----3---------3-----3------|----2-----0---------2--------------|
+B|------0---------------0-------0----|------3-----3---3-----3-----2------|
+G|--------0-------0-------0-------0--|--------2-----2---------2-------0--|
+D|--------------0--------------------|--0---------------0-----------0----|
+A|-----------------------------------|-----------------------------------|
+E|--3---------------3----------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    P ~am i ~ a P i P ~am i ~ a m i     P a m i Pam i m P a m i ~ a P i
+
+(The last 3 beats of the D are a little tricky unless you listen to it, because they start in after a pause, on the half beat so the second note comes quickly with the swing rhythm.)
+
+[Verse 1]
+    Em                                  C
+e|------0---------------0-----0------|------0-----0-------0-------0------|
+B|------0-----0---------0------------|------1---------------1-------1----|
+G|--------0-------0-------0-------0--|--------0-------0-------0-------0--|
+D|--------------2---------------2----|--------------2-----------0h2------|
+A|------------------2----------------|--3---------------3----------------|
+E|--0--------------------------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    I've seen love go by my door        It's never been this close before
+	I've been shooting in the dark...   When somethin's not right it's wrong
+
+    G                                   D
+e|------3---------------3-----3------|------2-----2-----0----------------|
+B|------0-----0---------0-------0----|------3-------3-----3-----2--------|
+G|--------0-------0-------0-------0--|--------2-------2-----2-----2---0--|
+D|--------------0--------------------|--0---------------0-----------0----|
+A|-----------------------------------|-----------------------------------|
+E|--3---------------3----------------|-----------------------------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    's never been so easy or so         slow
+
+Next line the G is the same except the last triplet starts on the second string just like earlier in the measure (that's very variable to add some minor difference) C is the same. Basically except for the intro Em, it's a base note followed by two triplets. The first a-m-i is often compressed to ~-am-i (almost always on the first of the double measures). The second is either a simple a-m-i on the high strings or a-P-i or m-P-i. The hammer-on in the C-chord is an exception where the 0h2 is thrown in what is usually a rest between triplets.
+
+    G               D                   G
+e|------3-----3---------2------------|------3-------------3-------3------|
+B|------0-------0-------3-----3------|------0-----0---------0------------|
+G|--------0-------0-------2-------0--|--------0-------0-------0-------0--|
+D|------------------0-----------0----|--------------0---------------0----|
+A|-----------------------------------|-----------------------------------|
+E|--3--------------------------------|--3---------------3----------------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +
+    You're gonna... lonesome when you   go
+
+
+[Bridge]
+D                                 G
+Flowers on the hillside, bloomin' crazy
+D                              G
+Crickets talkin' back and forth in rhyme
+
+A7                                                                          Am7        D
+e|------0-------------0-------0------|----0-------0-----3---3-0----------|----------|----2-----|
+B|--2-----2-----2-------2-------2----|------2-------2-------2-----2------|--1-------|---3------|
+G|------------0---0-------0-------0--|--------0-------0---0---------0--0-|--0-------|--2-------|
+D|-----------------------------------|--2--------------------------------|--2-------|----------|
+A|--0---------------0----------------|-----------------------------------|----------|----------|
+E|-----------------------------------|-----------------------------------|----------|----------|
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +     1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +    plucked    slow strum
+      A blue river  runnin' slow and    lazy                              I could... And never realize...
+
+Bubba does a little upstrum on the high strings leading into the Em of the next verse.
+
+[Ending chord: Lonesome when you]
+    G
+e|------3-----------3----|
+B|------0-----0----------|
+G|--------0-------0------|
+D|----------0h2-0--------|
+A|-----------------------|
+E|--3---------------3----|
+    1 + 2 + 3 + 4 + 1234
+	go.

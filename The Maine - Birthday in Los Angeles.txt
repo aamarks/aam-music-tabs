@@ -1,0 +1,98 @@
+The Maine - Birthday in Los Angeles 
+
+Pretty much for the cd version, but specifically as in this studio version
+https://www.youtube.com/watch?v=fBhMkXUK-_0
+The strumming usually skips the high e-string for the first half of each measure,
+and then emphasizes either the second string or a new note in the e-string
+on the second half of the measure. 
+
+
+ F      13321x
+ F*     xx3210 > xx3213  Fmaj7 then add pinky for second half of measure, Fadd2
+ G#dim  4x0434 D7/F#-shape slid up 2, 5th string muted by thumb, 
+        xx0434 if you can't do that
+ C      x32010
+ C*     x32013 play regular C then add the pinky for second half of measure
+ Dm     xx0231
+ Em*    075007 you can play reg Em if you prefer
+ Am     x0221x Am Am/G D7/F# walk down the base
+ Am7/G  30221x
+ D7/F#  20021x
+
+No capo. Key of C
+
+Verse : C, G, Am
+Chorus: F, G, C x2
+        F, G, C, Am
+        F, G, C
+
+[intro]
+(not in cd version)
+C*  Em*   F*  F*
+C*  Em*   F*  F*
+
+
+[verse 1]
+C       G           Am       Am              C 
+...L.A. pick up the phone, I need to talk to you
+     G                    Am           Am               C
+Stop sleeping with my new friends, and all the old ones too
+  G              Am     Am                        C
+Remember when we met, I thought you thought I was boring
+    G                Am          Am                F
+You called me on the phone, to arrange my birthday party
+
+          G                C     C 
+Well this ain't a scripted movie
+F       G             C     C 
+I don’t drive a fancy car
+
+Dm             G                   Am    Am/G D7/F#  Fm
+Those flashing lights don’t mean a thing to   me
+G#dim     C*     Em*   F*   F*
+Goodbye L.A.
+C*     Em*         F*    F*
+ la-da-dm  la-d-da-dm-da
+
+
+[verse 2]
+C   G                    Am         Am             C
+You showed me around the house, You took me by the wrist
+    G                     Am        Am       C
+You introduced me to your pals, the scientologists
+   G            Am              Am              C
+We cut the cake and sang, And I tried to fake a smile
+      G                     Am              Am              F
+And I drank, and drank, and drank, 'cause I felt so out of style
+
+         G                 C     C    F
+But this ain't my birthday party
+         G              C     C
+No, it's just a fashion show
+
+Dm           G                  Am Am/G D7/F#  Fm
+Yeah this is something, it just is n’t  me
+G#dim     C*        Em*         F*   F*
+So long L.A.  la-da-dm  la-d-da-dm
+C*     Em*         F*    F*
+ la-da-dm  la-d-da-dm-da
+
+
+[verse 3]
+C      G            Am      Am           C  
+Well I do miss Hollywood, enjoy the hazy city
+    G                   Am        Am                 F
+I’m sure you’re feeling good, but soon enough you’ll miss me
+
+      G                 C      C
+But I ain’t got so much money,
+F     G             C      C
+and nobody knows my name
+
+Dm          G                Am   Am/G D7/F#  Fm
+But here is something I just have to   say
+G#dim      C
+Fuck you L.A.
+
+
+tabbed by --art  2.14.17

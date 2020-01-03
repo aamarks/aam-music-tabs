@@ -1,0 +1,108 @@
+Grant Hart Tabs
+
+Tabbed by -Art
+
+I'm terrible at understanding lyrics so....
+
+
+
+
+Album: The Argument
+
+The Argument is a "concept album based on John Milton's Paradise Lost"
+https://en.wikipedia.org/wiki/The_Argument_(Grant_Hart_album)
+
+
+
+
+7. Sin
+
+https://youtu.be/zJ1mh_d49yg
+
+Key change in the middle of the song. I haven't analyzed a key change before. This one happens in the verse that usually goes I - V - I. Instead of going back to I, it shifts the key up a half step, not to the new I chord, but shifting up from the current V (A#) to the new V chord (B).
+
+Key of D♯m
+
+D#m [x68876]
+A#  [688766]
+B   [799877] (same bar chords up 1 fret after the key change)
+
+F#  [x 9 11 11 11 9]
+C#  [9 11 11 10 9 9]
+F   [x 8 10 10 10 8]
+E   [x79997]
+
+
+
+
+[Intro]
+   D#m      ... A#       ... D#m
+e|---6---6--------6---6--------6---6---|
+B|---7---7--------6---6--------7---7---|
+G|---8---8--------7---7--------8---8---|
+D|---8---8--------8---8--------8---8---|
+A|-6------------8------------6---------|
+E|-----6------------8------------6-----|
+   4x           3x
+
+[Verse 1]
+D#m
+Sin is how I got, One in the middle of the flock
+A#
+I'll protect you and that's not all, I'll eat right through your soul.
+D#m
+Sad(?), sick(?), and sexy, I ..... I love my plexy(?)
+A#                                      D#m
+I believe ...(?) eat right through your soul.
+
+[Chorus]
+F#           C#                F#               F E
+I'm not like all those pretty, angels you find.
+D#m                   A#
+No I'm not that kind.
+
+[Verse 2]
+D#m
+There's seven in the system. Tried to resist 'em.
+A#                                                              B
+Listen closely, and I'll list em, I'll eat right through your soul.
+
+(change to key of Em)
+Em
+GREED! You got to have it all.
+Em
+LUST! Feel like having a ball.
+B
+SLOTH! Always sitting in one place.
+B
+GLUTTONY! Always feeding your face.
+Em
+ENVY! Or do you like what you see
+Em
+PRIDE! Superiority
+B
+ANGER! Don't you get mad at me!
+B                           Em
+I'll eat right through your soul.
+
+[Chorus]
+G            D                 G                F# F
+I'm not like all those pretty, angels you find.
+Em                    B
+No I'm not that kind.
+
+[Verse 3]
+Em
+Come on join the rebels. Let your heart go to the devil.
+B                                                           Em
+Tell you that I'm on the level, I'll eat right through your soul.
+
+[Outro]
+B                           Em
+I'll eat right through your soul.
+B                           Em
+I'll eat right through your soul.
+B
+I'll eat right through your, I'll eat right through your, I'll eat right through your,
+Em
+soul.

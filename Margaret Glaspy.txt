@@ -1,0 +1,25 @@
+Margaret Glaspy - You And I
+
+key of C
+
+C Am G 
+
+power chord progression back to C?
+A#5   x133xx  
+B(b5) x234xx  basically your vii, Bdim, without the 3 
+My amateurish instinct when figuring this out was to make that an F that slides to G. The second time this is played it ends the song with a C that switches to A(m)7 for a moment 302xxx, missing the 3 so not minor, another power chord (a more standard sound would have been to use the V, G, instead of A). She's holding Am7/G but the bass plays an A.
+
+
+
+[Interlude]
+(riff https://youtu.be/uxglzsJkBJg?t=536)
+C  G  Am  F  s G 
+
+    C F                                                   A#5 Bo  C        
+e|-----------------------------------------------------------------------|
+B|-----------------------------------------------------------------1-----|
+G|--0-----------------------3-4---0------------------------3---4---0-----|
+D|--2-3-2p0------2-2p0------3-3---2-3-2p0------2-2p0-------3---3---2-----|
+A|--3-------3--0-------3--1-1-2---3-------3--0-------3--1--1---2---3-----|
+E|-----------------------------------------------------------------------|
+    1 2 3   4  1 2 3   4  1 2 3 4

@@ -1,0 +1,172 @@
+Sam Beam & Jesca Hoop: NPR Music Tiny Desk Concert
+
+The three songs in this session were all done in DADGAD tuning, but tuned down 3 more steps to B, for some really loose, percussive strings. Thanks to Einar Aassved for coming up with the tuning in a youtube comment.
+
+
+
+
+1. Sailor To Siren
+
+Tuning: DADGAD down to B for some very loose strings (thanks to  Einar Aassved in a youtube comment)
+
+He mostly rhythmically from 6 to 5, occasionally 6 4 6 5 or 6 5 5 5.
+
+
+Tuning: BF#BEF#B
+
+B5 	[000700]  [000707] 
+Eadd9 	[550400]  [500400]
+F#add11 	[770600]  F#(11)no5 	[700600]
+B5 [000200] last chord and probably the intro
+
+
+Capo 3
+
+     B       B       E(9)    F#(11)   B                                                         
+B |----0-------0-------0-------0------------------------------------------|
+F#|-----0-------0---------------0-----------------------------------------|
+E |-(7)-----7--------4------46--------------------------------------------|
+B |-(0)---0---0---0-------0-------0---------------------------------------|
+F#|----0---0---0---0---5---5---7---7p0------------------------------------|
+B |--0---0---0---0---5---5---7---7----------------------------------------|
+
+
+During the ooohs he plays 
+
+
+
+
+2. Know The Wild That Wants You
+
+Tuning: BF#BEF#B
+
+G#m 	[990xxx] 
+G#m7 	[990700]
+Bsus2/F# 	F#sus 	[770xxx]
+E 	[5504x0]  
+[440xxx]
+
+
+
+Capo 1
+
+(basic sound without extra notes)
+B |-------------------------/---------------------------------------------|
+F#|------------------------/----------------------------------------------|
+E |-----------------------/-----------------------------------------------|
+B |-------0-0------0-0---/---------0-0------0-0---------------------------|
+F#|----9---9----7---7---/-------5---5----4---4----------------------------|
+B |--9---9----7---7----/------5---5----4---4------------------------------|
+
+(actual pattern?)
+B |---.0--------------------/---------------------------------------------|
+F#|----.0------------------/----------------------------------------------|
+E |--------7--------6-----/---------4--------2----------------------------|
+B |-------0--------0-0---/---------0-0------0-0---------------------------|
+F#|----9---9----7---7---/-------5---5----4---4----------------------------|
+B |--9---9----7---7----/------5---5----4---4------------------------------|
+
+
+
+
+3. Every Songbird Says
+
+When playing the 550400 sometimes he leaves it plucking the second string and sometimes he pluck/pulls the 5th string (an octave lower) as he releases the chord to move to 000200. Note that the 2nd and 3rd string are playing the same note on the 000200 so it doesn't really matter which one you pluck.
+
+Eadd9 	550400
+B5 	000200
+Eadd9/G#  G#m7#5 x20000
+
+Tuning: BF#BEF#B
+
+Capo 3
+
+B |----0--------------0---------------------------------------------------|
+F#|-----0--------------0--------------------------------------------------|
+E |--4------2----0---2----------------------------------------------------|
+B |--------0----0---------------------------------------------------------|
+F#|----5----0----5----0---------------------------------------------------|
+B |--5----0----5----0-----------------------------------------------------|
+
+B |----0----0----0----0---------------------------------------------------|
+F#|----------0----0----0--------------------------------------------------|
+E |--------2---------2----------------------------------------------------|
+B |----0p-----------------------------------------------------------------|
+F#|---------0----5----0---------------------------------------------------|
+B |--5----0----5----0-----------------------------------------------------|
+
+B |-----------------------------------------------------------------------|
+F#|-----------------------------------------------------------------------|
+E |-----------------------------------------------------------------------|
+B |-----------------------------------------------------------------------|
+F#|-----------------------------------------------------------------------|
+B |-----------------------------------------------------------------------|
+
+
+I'm a tiny heart that's falling fast
+Like a hummingbird, like an hourglass
+I'm a hollow bone a determined wing
+For the distant hope of a promise ring
+(This bed is old, but the dream is new
+You can borrow mine if you break a few
+I'm a mountainside I can wash away
+I'm a pool of tears on a wedding day)
+Ooh, we're both baby bottles full of love
+Ooh, empty fingers of a glove
+Ooh, we know when it's enough
+Ooh, enough, ooh, enough
+Ooh, it's enough, ooh, to be walking with you
+I get lost, I get lost a lot
+And you meet me there
+I can close my eyes and find you anywhere
+(I can hold you close while you wander free
+And the long walk home says you're good for me
+You're good for me)
+I can take a lot
+I'll give you more
+(We're a tiny heart), but the blood is warm
+I'm a thunder cloud
+I am cutting through
+(Every songbird says I'm in love with you
+I'm in love with you, I'm in love with you, I'm in love with you)
+Ooh, we're both deaf from banging on a drum
+Snow angel, sleeping in the sun
+Ooh, we know when it's enough
+Ooh, enough, ooh, enough, ooh, enough
+Ooh, sun sinking down and his work is never done
+Ooh, your heart is never won
+Ooh, we know when it's enough
+Ooh, enough, ooh, enough, ooh, enough, ooh, enough
+Ooh, enough, ooh, enough, ooh, enough, ooh it's enough
+Ooh, to be walking with you
+And get lost
+
+
+4. My own chord progression in this Tuning: DADGAD
+
+
+Tuning: BF#BEF#B
+
+Capo 3
+
+Key of D (B relative to capo)
+
+I    B5 	000200
+iii  D#mb13 	BM7/D# 	440200
+IV   E(9) 	550400
+V    F#(11) 	770600
+vi   G#m7 	990700
+ii   C#m7(11) 	220000
+V    F#7sus/B 	002000 Bsus(9)
+
+The progression is I iii IV V vi V IV iii ii V I
+
+
+
+
+B |--0--0--0--0--0--0--0--0--0--0--0--------------------------------------|
+F#|--0--0--0--0--0--0--0--0--0--0--0--------------------------------------|
+E |--2--2--4--6--7--6--4--2--0--0--4--------------------------------------|
+B |--0--0--0--0--0--0--0--0--0--3--0--------------------------------------|
+F#|--0--4--5--7--9--7--5--4--2--0--0--------------------------------------|
+B |--0--4--5--7--9--7--5--4--2--0--0--------------------------------------|

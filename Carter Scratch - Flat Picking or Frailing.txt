@@ -1,0 +1,226 @@
+Examples of the Carter Scratch from various sources
+
+
+
+
+Album: How To Play The Carter Scratch 
+
+Featuring Courtney Marie Andrews
+https://youtu.be/cc4AxM0Nxa8
+
+
+
+
+1. Frailing
+
+
+[Frailing]
+       D               D               G                       D         
+e|-------2---x---x-------x---x---x-------x---x---x-------x---x---x-------|
+B|-------3---x---x-------x---x---x-------x---x---x-------x---x---x-------|
+G|-------2---x---x-------x---x-3-x-------x---x---x-------x---x---x-------|
+D|-----0---0---0---4-2-0-----------4-2-0---0--0----0---0-------0---------|
+A|-0-2---------------------0-------------------------2-----2-------------|
+E|-----------------------------------------------------------------------|
+
+       D               Bm              A               D                 
+e|-------x---x---x-------2---x---x-------0---x---x-------x---x-----------|
+B|-------x---x---x-------3---x---x-------2---x---x-------x---x-----------|
+G|-------x---x---x---2-4-4---x---x---2-2-2---x---x-------x---x-----------|
+D|-----0---0-------4-------4-------4-------2-------4-2-0-------0---------|
+A|-0-2---------0---------------2---------------0-----------2-------------|
+E|-----------------------------------------------------------------------|
+
+
+
+
+2. "Will the Circle Be Unbroken"
+
+[Flat picking]
+D 
+D D7 G D D Bm D - A D  x2
+(the second time she skips the D7? and only does the D-walkdown on the 4th string to land on A).
+
+
+
+
+Album: Mother Maybelle's Carter Scratch Documentary
+
+
+
+
+1. Hellen Carter - Bury Me Under The Weeping Willow
+
+https://youtu.be/6yrAMCZYS5I?t=690
+
+"One of the very first sessions that the Carter family recorded in Bristol, Tennesse in August of 1927" (Helen Carter) 
+
+This is the abbridged song played by Helen to Illustrate how her mother played. Some of Maybelle's original is included also for comparison. In the original the chorus follows each verse and is repeated at the end.
+
+The intro has a more complex base line. Once she begins singing she sticks to a regular pattern of alternating base note and scratch (Down stroke with the fingers, sometimes preceded by a lighter up stroke). Instead of Boom--chik-ka (Cash/Perkins), it's boom--chik, boom-ka-chik-. But the original sounds like boom--chik-ka boom--chik-ka.
+
+   C                
+     d  ud   d  ud        
+e|---1--11---0--11----
+B|---1--11---1--11----
+G|---2--22---0--22----
+D|--------------------
+A|-3-------3----------
+E|-----3-------3------
+
+
+Key of C
+
+[Intro]
+      C                F                C                G                 
+e|------00------00-------11------11-------00--00--00-------11--11--11----|
+B|------11------11-------11------11-------11--11--11-------00--00--00----|
+G|-0--0---0-2-0----------22------22-------00--00--00-------00--00--00----|
+D|----------------2------33----0-33-------22--220h2-0----0-------0---2-3-|
+A|------------------3--3---3-0---3-3-0------3---------3------------------|
+E|--------------------------------------3--------------------3-----------|
+   +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +   
+
+   C                F                C       G        C                 
+e|---00------00-------11------11-------00------11-------11--11--11----|
+B|---11------11-------11------11-------11------00-------00--00--00----|
+G|-0---0-2-0----------22------22-------00------00-------00--00--00----|
+D|-------------2------33----0-33-------22--2-0---2-3--0-------0---2-3-|
+A|---------------3--3---3-0---3-3-0------3----------------------------|
+E|-----------------------------------3--------------------3-----------|
+   1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +   
+
+[Verse 1]
+   C                 F              
+My heart is sad, and I'm in sorrow
+        C               G    
+For the only one that I love
+     C                F             
+When shall I see him, oh, no, never
+       C           G      C     
+Till I meet him in heaven above
+
+[Chorus]
+    C                 F              
+Oh, bury me under the weeping willow
+     C                        G    
+Yes, under the weeping willow tree
+   C                 F             
+So he may know where I am sleeping
+
+          C            G         C                      C
+e|-----11---00-----------11-----------------0-|  e|-------00---00--0-|
+B|-----11---11-----------00----------------1--|  B|-------11---11--1-|
+G|-----22---00-----------00------------0--0---|  G|-------000h2----0-|
+D|---------------------------------2-2---2----|  D|----------------2-|
+A|-3------3----2--0---------0-2--3------------|  A|0-2--3--------3---|
+E|---------------------3----------------------|  E|------------------|
+   And perhaps he will weep over me                over me
+
+(she ends here for the documentary)               (original ending)
+
+[Verse 2]
+They told me that he did not love me, I could not believe it was true
+Until an angel softly whispered, He has proven untrue to you
+
+[Verse 3]
+Tomorrow was our wedding day, But, oh Lord, where is he
+He's gone to seek him another bride, And he cares no more for me
+
+[Verse 4]
+Oh, bury me under the violets blue, To prove my love to him
+Tell him that I would die to save him, For his love I never could win
+
+[end]
+
+
+[Interlude]
+(after 2nd and 3rd chorus in the original. 4th chorus is sung twice)
+https://youtu.be/YCniFuHlPG0?t=70
+
+    (not this:)
+          C                C                C                                    
+    e|------00--00--00--00--00--00---00------00-------00--00--00-------11--11--11----|
+    B|------11--11--11--11--11--11---11------11-------11--11--11-------00--00--00----|
+    G|------00--00--00--000---0h20-0-00------00-------00--00--00-------00--00--00----|
+    D|----------------0h2--------------2-0-----0-2--3-----220h2-0----0-------0---2-3-|
+    A|----3-------3------------------------3------------3---------3------------------|
+    E|-------------------------------------------------------------------3-----------|
+       +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +          
+
+(this)
+
+      C                C                F                C                G                
+e|------000000--00--00---00--00--00-------11--11--11-------00--00--00-------33--33--11-----|
+B|------111111--11--11---11--11--11-------11--11--11-------11--11--11-------00--00--00-----|
+G|------000000--00--00-0---0h200-00-------22--22--22-------00--00--00-------00--00--00-----|
+D|----------------0h2--------------2-0----------0----------------0h2-3-2--0-------0---2-3--|  alt 0h2
+A|----3-------3-------------------------3---3-------3-0------3-----------------------------|
+E|-------------------------------------------------------3--------------------3------------|
+   +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+ over me                                                   
+
+
+    C                F                C       G        C               C    
+e|----00--00--00-------11--11--11-------00------33-------00--00--11------11----|
+B|----11--11--11-------11--11--11-------11------00-------11--11--00------00----|
+G|--0---0h200-00-------22--22--22-------00------00-------000h200-00------00----|
+D|--------------2-0----------0--------------2-0------------------------0---2-3-|
+A|-------------------3---3-------3-2------3---------2--3---3---3---------------|
+E|------------------------------------3-----------3----------------------------|
+    1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +        
+                                                                   To--morrow was        
+
+
+
+
+2. Foggy Mountain Top
+
+https://youtu.be/6yrAMCZYS5I?t=873
+
+She begins showing 3 different ways her mother played. First this, the Carter Scratch. She ends saying this is her version of the Carter Scratch. This does have the Boom--chik-a rhythm.
+
+
+
+e|-----------------------------------------------------------------------|
+B|-----------------------------------------------------------------------|
+G|-----------------------------------------------------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+
+
+
+3. Canonball Blues (He's Solid Gone)
+
+https://youtu.be/6yrAMCZYS5I?t=954
+
+Helen credits "an old black man", [Esley (Lesley) Riddle](https://en.wikipedia.org/wiki/Lesley_Riddle) as showing her how to play the blues. (In fact he was only 4 years older than her mother--Helen probably only heard of him as she was born in '27' the same year she speaks of one of the earliest Carter recording sessions.)
+
+
+
+4. Redwing
+
+Maybelle used flat picking to play songs like Redwing and Dixie Darling.
+
+
+
+
+5. Coal Miners' Blues - Carter Family
+
+More flat picking.
+
+
+
+
+6. Wildwood Flower 
+
+https://youtu.be/6yrAMCZYS5I?t=1170
+
+Maybelle - archtop Gibson
+Helen - guitar
+Anita - accompanying voice
+June - filling in the scratch with the autoharp
+
+Looks like she's using a steel finger pick on the index finger for the "scratch".

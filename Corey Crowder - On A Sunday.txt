@@ -1,27 +1,37 @@
 On A Sunday from Lost & Found by Corey Crowder
-
-released 04 December 2009 
+ 
+released 04 December 2009
 listen: http://coreycrowder.bandcamp.com/track/on-a-sunday
  
-
-   transition to 1st G in verse some sorta G/C [320010]
-   first G at end of verse riff barred [355433], down to F...
-
-
+   The first section sounds like a verse but I've labeled it a chorus since it repeats,
+   and the chorus-sounding section changes lyrics so it's labeled verse.
+ 
+   There is some sort of transition to G in "wave to the sky" (G/C) that I can't quite figure out,
+   but it may just be an early switch to G on the last strum or 2 of the C-measure.
+ 
+   First G in the GFGC riff at the end of "thankful I'm alive"
+   is barred [355433] and slid down to F [133211]
+   and the barred G is probably used in the verses as well.
+ 
+   Tabbed by: --Art
+ 
+ 
 Capo 1(key of Db)
-
-C                 F               C 
+ 
+ 
+[Chorus]
+C                 F               C
 If our lives were built here on a Sunday
-C                        (G/C) G 
+C                         G/C G
 Then maybe we can wave to the sky 
-     C               F                  C 
+     C               F                  C
 Cus' many lives were built here but are crumbling 
-C                    G            F   
+C                    G            F
 Well, Honey I'm just thankful I'm alive 
-G[355433] F G C  x2
-G[355433] F G
+G F G C  x2
+G F G
 
-
+[Verse 1]
     F                  G
 The neighbors hear our conversations 
     F                   G                 Am
@@ -31,19 +41,19 @@ I kissed your cheek as you were waking
   F               G                 Am     G
 I told you that I loved you and you smiled 
 
-
-C                 F               C 
+[Chorus]
+C                 F           C
 If our lives were built here on a Sunday
-C                        (G/C) G 
+C                             G
 Then maybe we can wave to the sky 
-     C               F                  C 
+     C               F                  C
 Cus' many lives were built here but are crumbling 
-C                    G            F   
+C                    G            F
 Well, Honey I'm just thankful I'm alive 
-G[355433] F G C  x2
-G[355433] F G
+G F G C  x2
+G F G
 
-
+[Verse 1]
     F                  G
 Forget about the smoke we're clearing 
     F                G                 Am
@@ -53,18 +63,15 @@ Slowly move, it's me I'm cheating
   F               G                 Am     G
 An open mind is what I'm seeking now 
 
-
-C                 F               C 
+[Chorus]
+C                 F               C
 If our lives were built here on a Sunday
-C                        (G/C) G 
+C                             G
 Then maybe we can wave to the sky 
-     C               F                  C 
+     C               F                  C
 Cus' many lives were built here but are crumbling 
-C                        G        F 
+C                      G          F
 Well, Honey I'm just thankful I'm alive 
-C              G              F   
+C              G              F
 Maybe we'll be thankful we're alive 
-G[355433] F G C
-
-
-Tabbed by: --Art
+G F G C

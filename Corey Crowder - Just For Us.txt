@@ -1,93 +1,14 @@
-Just For Us
-from Lost & Found by Corey Crowder 
-
+Corey Crowder - Just For Us
+ 
+From Lost & Found, track released 04 December 2009
+ 
   listen: http://coreycrowder.bandcamp.com/track/just-for-us
   vid: http://www.youtube.com/watch?v=F--fAbD9GWU
  
-  (He uses a capo, looks like on 4th fret so he must tune down a half step)
-
-Capo 3 (key of Eb)
-
-
-Intro x4
-       C...              (G/C)
-   e|--0--------0--------0------|
-   B|--1--------1--------1------|
-   G|--0--------0--------0------|
-   D|--0h2------2p0------0------|
-   A|--3--------0--------2------|
-   E|--x--------x--------3------|
-       1  2  3  4  5  6  7  8 
-
-   (continues something like that throughout the song, 
-   the F with 3rd string hammered...)
-
-C                              
-Baby’s got herself a new black dress 
-Put her pretty face on and then all the rest
-F 
-She was beautiful 
-
-C
-Well, I walked in and I looked like a mess 
-(I) saw frown on her face and hives on her chest 
-F
-It was beautiful 
-
-
-CHORUS
-              C                       G
-Baby’s got a new dress, baby’s got a new car
-                    Am                    F 
-With the summer sun steady running out of luck 
-                 C             G
-(But) out in the ocean in slow motion 
-          F            G               C
-There’s a message in a bottle just for us 
-
-
-C
-3 years later we were talking real tall 
-Bought a bunch of new clothes, a couple new cars 
-F
-To get us by 
-
-C
-With piles of bills and our heads on the wall 
-Summer left so fast and then came fall, 
-F
-We made it by 
-
-
-REPEAT CHORUS
-
-
-C
-Here in the city life seems so small 
-We make believe that we matter at all 
-F
-in this life 
-
-C
-She loves with her smile. She loves with her soul 
-Such a pretty little thing just helping me hold 
-F
-on tight 
-
-
-REPEAT CHORUS
-
-
-   credits from Lost & Found, track released 04 December 2009 
-   Tabbed by --Art
-
-
-
-
-After listening further a minor correction (got rid of the pulled note on the c-chord) and a bit more detail on the tab:
-
-Verses:
-for the C-chord of the verses 
+He uses a capo, looks like on 4th fret so he must tune down a half step
+Each measure of C in the verses is as tabbed out in the intro
+so it's really C Am7/G Gadd4, or C C6 Cmaj9.
+ 
        C...    (Am7)    (G)
        \   /\/  \   /\/  \  \/
    e|--0--------0---------------|
@@ -95,20 +16,111 @@ for the C-chord of the verses
    G|--0--------0--------0------|
    D|--0h2------2--------0------|
    A|--3--------0--------2------|
-   E|--x-------(3)-------3------|
+   E|--x--------3--------3------|
        1  2  3  4  5  6  7  8 
-On the partial G play the low strings on the first down strum then the high strings on the following lighter strums.
-
-
+ 
+I hold a full C/G [332010] and move fingers as necessary.
+On the partial G play the low strings on the first down strum
+then the high strings on the following lighter strums.
+You can hear the low a-note and g-note on beats 4 & 7.
+ 
        F
-       \   /\/  \   /\/  \  \/
+       \   /\/  \   /\/  \
    e|--1--------1--------1------|
    B|--1--------1--------1------|
    G|--0h2------2--------0h2----|
    D|--3--------3--------3------|
-   A|-(3)------(3)------(3)-----|
-   E|-(1)------(1)------(1)-----|
+   A|--3--------3--------3------|
+   E|--1--------1--------1------|
        1  2  3  4  5  6  7  8  
-I usually hold my thumb on the E-string for an F-chord, but really you're strumming just the 1st 4 high strings for this.
-
+ 
+I usually hold my thumb on the E-string for an F-chord,
+but really you're strumming just the 1st 4 high strings for this.
+ 
 You can hammer on a bit for the C's, F's, Am's in the chorus (2nd string for the Am)...
+Tabbed by --Art
+ 
+ 
+Capo 3 key of Eâ™­ (C relative to capo), standard tuning
+ 
+ 
+[Intro]
+       C
+   e|--0--------0---------------|
+   B|--1--------1--------1------|
+   G|--0--------0--------0------|
+   D|--0h2------2--------0------|  x4
+   A|--3--------0--------2------|
+   E|--x--------3--------3------|
+
+[Verse 1]
+C
+Baby's got herself a new black dress 
+C
+Put her pretty face on and then all the rest
+F
+She was beautiful 
+C
+Well, I walked in and I looked like a mess 
+C
+(I) saw frown on her face and hives on her chest 
+F
+It was beautiful 
+
+[Chorus]
+              C                       G
+ Baby's got a new dress, baby's got a new car
+          Am                            F
+ With the summer sun steady running out luck 
+ C                            G
+ (But) out in the ocean in slow motion 
+ F                      G                C
+ There's a message in a bottle just for us 
+
+[Verse 2]
+C
+3 years later we were talking real tall 
+C
+Bought a bunch of new clothes, a couple new cars 
+F
+To get us by 
+C
+With piles of bills and our heads on the wall 
+C
+Summer left so fast and then came fall, 
+F
+We made it by 
+
+[Chorus]
+              C                       G
+ Baby's got a new dress, baby's got a new car
+          Am                            F
+ With the summer sun steady running out luck 
+ C                            G
+ (But) out in the ocean in slow motion 
+ F                      G                C
+ There's a message in a bottle just for us 
+
+[Verse 3]
+C
+Here in the city life seems so small 
+C
+We make believe that we matter at all 
+F
+in this life 
+C
+She loves with her smile. She loves with her soul 
+C
+Such a pretty little thing just helping me hold 
+F
+on tight 
+
+[Chorus]
+              C                       G
+ Baby's got a new dress, baby's got a new car
+          Am                            F
+ With the summer sun steady running out luck 
+ C                            G
+ (But) out in the ocean in slow motion 
+ F                      G                C
+ There's a message in a bottle just for us 

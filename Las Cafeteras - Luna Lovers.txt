@@ -11,7 +11,7 @@ tuned [G C E A G], but you can play the chords on a guitar or uke.
 The 4-strings are probably Jarana Jarocha Requintos tuned almost
 like the guitar's 2nd-5th strings, except the B is tuned up a half to C.
 It's a little easier to play that way but I've tabbed it standard.
-If you tune A2•D3•G3•C3 like they do just play one fret down on the B-string. 
+If you tune A2ï¿½D3ï¿½G3ï¿½C3 like they do just play one fret down on the B-string. 
 The lead 4-string continues fingerpicking like the intro into the song.
 He continues the solo into the last verse. Even a tenor uke doesn't go 
 low enough to play the notes on the D-string, but you could pick out 
@@ -31,7 +31,7 @@ Tuning:EADGBe    Guitar     355333   133211   032010   x00231
 Standard guitar tuning, no capo, key of Gm
 
 
-[intro]
+[Intro]
    Gm        F            C            Dm                    
  |---------------------------------------------------------------|
 B|-----3-3-------1------------1--------------3-------------------|
@@ -53,7 +53,7 @@ Walk with me  lu--na
 Gm        F   C   Dm
 Walk with me  lu--na
 
-[verse 1]
+[Verse 1]
        Gm    F            C         Dm
 So the story goes that my heart met yours
     Gm         F         C      Dm
@@ -68,7 +68,7 @@ I do I do I do I do I love you
   Gm        F       C      Dm
 I do I do I do I do I love you
 
-[chorus]
+[Chorus]
          Gm        F       C           Dm
 Wont you walk with me Luna through the dark
          Gm        F       C           Dm
@@ -80,7 +80,7 @@ Take my hand walk me through your land
 Gm      F       C       Dm
                 Luna Luna
 
-[verse 2]
+[Verse 2]
        Gm        F    C         Dm
 Well I travel so far across the land
         Gm     F   C   Dm
@@ -90,7 +90,7 @@ Stand by my side (by my side)  and come along
      Gm          F                      C           Dm
 With me down the river (down the river) singing the song
 
-[chorus]
+[Chorus]
          Gm        F       C           Dm
 Wont you walk with me Luna through the dark
          Gm        F       C           Dm
@@ -102,10 +102,10 @@ Wont you take (take) my hand walk me through your land
 Gm        F       C       Dm
                   Luna Luna
 
-[interlude]
+[Interlude]
 Gm   F  C    Dm  x3
 
-[solo]
+[Solo]
    Gm            F              C                   Dm                    
  |-----------------------------------------------------------------------|
 B|-13---11-10----13---11-10--------10-11--10-13--15-13--11-10--11-10--13-|
@@ -122,7 +122,7 @@ D|-----------------------------------------------------------------------|
 A|-----------------------------------------------------------------------|
  |-----------------------------------------------------------------------|
 
-[verse 3]
+[Verse 3]
           Gm         F     C    Dm
 Hope this night will never ever end
       Gm     F  C         Dm
@@ -132,7 +132,7 @@ Tell me words of truth and mystery
         Gm     F         C    Dm
 Keep me here inside this memory
 
-[outro]
+[Outro]
           Gm       F             C      Dm
 Where the grass is green and the sky is high
           Gm      F                C             Dm

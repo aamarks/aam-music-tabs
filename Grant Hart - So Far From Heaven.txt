@@ -1,6 +1,8 @@
 Grant Hart - So Far From Heaven 
 https://www.youtube.com/watch?v=oAGXsVsvXl0
 
+tabbed by --Art
+
 E   022100  I
 Ab  466544  III
 Dbm 446654  vi
@@ -10,8 +12,8 @@ B   224442  V    hammer-->Bsus4  224452
 (Dm7  335343?)
 
 
-[verses]
 
+[Verse]
   E                 Ab    Dbm             A
 I sit and watch the world alone from this star
 E           Ab          Dbm            A
@@ -26,9 +28,7 @@ Is it no fair peeking if I look past your disguise
 E               Ab   Dbm         A         E       B-Bs4-B-Bs4
 Would I see an angel that I recognize from heaven
 
-
-[chorus]
-
+[Chorus]
 Dbm              A
  You taveled far You traveled long
 Dbm                 A
@@ -36,9 +36,7 @@ Dbm                 A
 Dbm           A                E       B-Bs4-B
  We can sing along to show him praises
 
-
-[verse]
-
+[Verse]
 E                    Ab          Dbm         A
 Are you one of those angels who attempted to rebel
 E                  Ab           Dbm               A
@@ -46,12 +44,9 @@ You waged a war in heaven, were defeated, and you fell
 E                    Ab         Dbm                 A         E       B-Bs4-B-Bs4
 Are you one of those angels who went all the way to hell from heaven
 
-
 whistles [verse chords]
 
-
-[chorus]
-
+[Chorus]
 Dbm              A
  You taveled far You traveled long
 Dbm                 A
@@ -66,9 +61,7 @@ Dbm                  A
 Dbm                   A                  E    B-Bs4-B
  Back to that lake of fire that burns in blazes
 
-
-[verse]
-
+[Verse]
 E                    Ab          Dbm         A
 Are you one of those angels who attempted to rebel
 E                   Ab          Dbm               A
@@ -76,9 +69,5 @@ You waged a war in heaven, were defeated, and you fell
 E                    Ab         Dbm                 A         E      B-Bsus4
 Are you one of those angels who went all the way to hell from heaven
 
-
 E               Ab    Dbm      A        E      
 What's a little angel doing so far from heaven
-
-
-tabbed by --Art

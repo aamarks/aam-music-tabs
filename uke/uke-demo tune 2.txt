@@ -1,51 +1,65 @@
 UKE DEMO TUNES
 
-First classic uke chording "Sister Kate"
+GotAUkulele using the same two tunes to demo several ukuleles in every price range.
+First classic uke chording, "Sister Kate"
 Second picking
 
 https://www.youtube.com/watch?v=sGcscQZE5sk
 
-I.
 
-each chord with 2 beats down a mix of ups: starts d.du dudu ...
-        C#dimG6     Aadd9
-       C6 C79Em7E7  Em6   G            G 
-                       D7  
-     -------------------------------------------------------------------------
-  A||  0  1  2  2   2  0  2  2   2  0  2-                                       
-  E||  0  0  0  0   0  2  3  0   0  2  3-                                       
-  C||  0  1  2  2   1  0  2  2   1  0  2-                                      
-  G||  0  0  0  1   0  2  0  1   0  2  0-                                       
-     -------------------------------------------------------------------------
-                |____________|
 
-II.
-        C                         e7            F          Fm        C 
-     -------------------------------------------------------------------------
-  A||   3   3   5   7   7 7 5 3   2    3  (5)   0    3    0x    3-   3-  downstrokes                    
-  E||    0   0   0   0            0             1          1    1-   0-  last 2       
-  C||     0   0       0           2             0          0    0-   0-  chords      
-  G||   0   0   0   0   0 0 0 0   1             2          1    1-   0-             
-     -------------------------------------------------------------------------
+
+1. Shimmy like my sister Kate
+
+Armand J. Piron, 1922
+
+Each chord with 2 beats down a mix of ups: starts d.du dudu ...
+
+C6     [0000]
+C#dim7 [0101]
+G6     [0202]
+E7     [1202]
+Em6    [0102] (he calls this Aadd9 some use A7, [2130] or [0100])
+D7     [2020]
+G      [0232]
+
+D7     [2223] used in the verses alternating with G until it goes back to the intro sequence.
+
+The Em6 sounds good, but the A7 may be the appropriate chord with the lyrics.
+
+
+Tuning: gCEA
+Key of G
+
+[Intro]
+      C6  C#o G6  E7  Em6 D7  G 
+  A|--0---1---2---2---2---0---2---------|
+  E|--0---0---0---0---0---2---3---------|
+  C|--0---1---2---2---1---0---2---------|
+  G|--0---0---0---1---0---2---0---------|
+                 |_____________|x2 in the chorus line
+
+
+
+
+2. Creep - Radiohead
+
+Noodling with the chords from it anyway...
+
+I haven't tabbed out everything, some of the more regular patterns (that are still somewhat unique)
+
+Tuning: gCEA
+Key of C
+
+       C                         E7            F          F(#9)     Fm   C 
+  A|---3---3---5---7---7-7-5-3---2----3---2----0----3---0------0----3----3----|
+  E|----0---0---0---0------------0-------------1-----------1-1---1--1----0----|
+  C|-----0---0-------0-----------2-------------0------------0-0-----0----0----|
+  G|---0---0---0---0---0-0-0-0---1-------------2----------1-----1---1----0----|
+
+
+Downstrokes on the last two chords.
+Make sure you don't hit the g and the a-string together on the F(#9) [1010].
+
 Similar picking on E7 and F. Lead into Fm with open 1st string then don't pick
 that string until you add it 3rd fret on the Fm strums.
-
-
-
-     -------------------------------------------------------------------------
-  A||                                                               
-  E||                                                               
-  C||                                                               
-  G||                                                               
-     -------------------------------------------------------------------------
-
-
-
-     -------------------------------------------------------------------------
-  A||                                                               
-  E||                                                               
-  C||                                                               
-  G||                                                               
-     -------------------------------------------------------------------------
-
-

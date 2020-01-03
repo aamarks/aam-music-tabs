@@ -1,0 +1,165 @@
+Mandolin Orange - Boots of Spanish Leather (Bob Dylan Cover) - Audiotree Live
+
+Every time I hear some finger picking that really stands out like this one I start working on it thinking they've discovered some completely new sequence and then I finally realize it's still just a variation of picking I already know. Basic picking is a standard outer to inner roll from low hi lesslow lesshi but the first hi is omitted until the second half of the measure where it's hammered on (making it a Gadd4?).
+
+The picking is sort of a variance of Travis picking (Travis, 63426342, is played on the D of the intro and the 2010 performance). Most of the picking is 62436243 with a lot of variation either with hammer-ons on the b-string, or playing the b-string with the root note.
+
+Each line ends in a G sequence that is the same (asside from occasional differences in hammer-ons for variety). I'm just notating the sequence G', for simplicity and because they have used different sequences in different recordings.
+G' = G  C/G(Am7/G)  G  G-D (4 measures with a walkdown on the last from G to F#, which has D chord-ness, to E of the Em)
+
+In a 2010 performance the G-D is a simple D-chord inverted with the f# in the bass with Travis picking. It has a very flowing to and fro from the G to the Em with D in between, like calm waves on the shore.
+The more polished 2014 Audiotree performance is what's shown here.
+
+
+
+Capo 2
+
+Each line
+                        Em                  D
+e|-------------------|-------------------|-------------------|
+B|-------------------|----0-------0------|------------1------|
+G|-------------------|--------0-------0--|--------2-------2--|
+D|-------------------|------2-------2----|------0-------0----|
+A|-------------------|-------------------|-------------------|
+E|-------------------|--0-------0--------|--0h2-----2--------|
+
+G'
+    G                   Am7/G               G                   G       G/F# 
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|------------0------|
+G|--------0-------0--|--------0-------0--|--------0----------|-------(0)------0--|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--3-------2--------|
+
+Other options
+    Am7/G               G4                                      G       G/F#
+e|-------------------|-------------------|                    -------------------|
+B|------------0------|--0h1-------1------|                    -------------------|
+G|--------0-------0--|--------0-------0--|                    ------0-----0------|
+D|------2-------2----|------0-------0----|                    ------0-----0------|
+A|-------------------|-------------------|                    -------------------|
+E|--3-------3--------|--3-------3--------|                    --3-------2--------|
+
+
+e|--------3----------|
+B|--------3-----3----|
+G|----0-0-----0------|
+D|------0------------|
+A|--3-------3--------|
+E|-------------------|
+
+
+Mandolin Orange - Boots of Spanish Leather (Bob Dylan Cover) 
+
+CAPO 2 
+
+[Intro]
+    G                   C/G                 G                   D
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|--------3-------0--|
+G|--------0-------0--|--------0-------0--|----------------0--|----2-------2------|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--2-------2--------|
+
+    G                   C/G                 G                   G       G/F#
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|------------0------|
+G|----------------0--|--------0-------0--|----------------0--|-------(0)------0--|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--3-------2--------|
+
+ G Am7/G G G
+
+[Verse 1]
+       Em       Em     D        G' (G  C/G  G  G-D)
+Oh I'm sailin' away my own true love
+    Em      D           G'
+I'm sailin' away in the morning
+         Em              Em             D         G'
+Is there something I can send you from across the sea
+         Em    D            G'
+From the place that I'll be landing?
+
+[Verse 2]
+            Em              Em          D        G'
+No, there's nothin' you can send me, my own true love
+        Em        D          G'
+There's nothin' I wish to be ownin'
+     Em        Em           D    G'
+Just carry yourself back to me unspoiled
+      Em         D        G'
+From across that lonesome ocean
+
+[Verse 3]
+        Em                 Em         D         G'
+Oh, but I just thought you might want something fine
+        Em     D     G'
+Made of silver or of golden
+       Em       Em        D    G'
+Either from the mountains of Madrid
+   Em       D             G'
+Or from the coast of Barcelona
+
+[Verse 4]
+        Em           Em             D       G'
+Oh, but if I had the stars from the darkest night
+        Em                D       G'
+And the diamonds from the deepest ocean
+       Em        Em      D          G'
+I'd forsake them all for your sweet kiss
+           Em       D            G'
+For that's all I'm wishin' to be ownin'
+
+
+[Verse 5]
+       Em       Em     D        G'
+That I might be gone a long old time
+         Em   D        G'
+And it's only that I'm askin'
+         Em              Em            D         G'
+Is there something I can send you to remember me by
+             Em        D     G'
+To make your time more easy  passin'?
+
+[Verse 6]
+    Em       Em          D       G'
+Oh, how can, how can you ask me again
+   Em   D         G'
+It only brings me sorrow
+    Em   Em            D       G'
+The same thing I would want today
+        Em    D      G'
+I would want again tomorrow
+
+[Verse 7]
+     Em    Em          D        G'
+Oh I got a letter on a lonesome day
+       Em       D      G'
+It was from her ship a-sailin'
+       Em      Em                D            G'
+Saying I don't know when I'll be comin' back again
+     Em       D       G'
+It depends on how I'm feelin'
+
+[Verse 8]
+    Em     Em         D            G'
+If you, my love, must think that-a-way
+    Em        D       G'
+I'm sure your mind is roamin'
+    Em        Em           D        G'
+I'm sure your thoughts are not with me
+             Em         D            G'
+But with the country to where you're goin'
+
+[Verse 9]
+        Em         Em          D       G'
+So take heed, take heed of the western wind
+     Em          D      G'
+Take heed of the stormy weather
+    Em            Em               D            G'
+And yes, there's something you can send back to me
+        Em       D       G'
+Spanish boots of Spanish leather

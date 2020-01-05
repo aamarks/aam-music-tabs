@@ -1,4 +1,3 @@
-
 The Extraordinaires - Staring at the Sun
 
 C#m  446654
@@ -7,62 +6,72 @@ Ab   466544
 D    557775
 A    577655 (barred in bridge, open elsewhere)
 
-Not sure about the F#m in the bridge and 2nd time in the verses.  --Art
+Not sure about the F#m in the bridge and 2nd occurrence in the verses.  --Art
 
+
+Key of C♯m
 
 [Intro] C#m E A Ab F#m E F#m A   (uses verse 1 chords)
 
 [Verse 1]
 C#m
-We were never well-acquainted 
+We were never well-acquainted
 E
-And everyone you knew was a state behind you 
-A                                 Ab                     
-Left to wonder where you went and why 
+And everyone you knew was a state behind you
+A                                 Ab
+Left to wonder where you went and why
            F#m          E
-But did it come as a surprise 
+But did it come as a surprise
          F#m                            A
-That our voices carried further in your mind 
+That our voices carried further in your mind
                            C#m
-than you would ever recognize 
+than you would ever recognize
 
-C#m                               
-We were on a first name basis, 
+C#m
+We were on a first name basis,
 E
-you were never good with names or faces 
+you were never good with names or faces
 A                                     Ab
-I hate to think we never crossed your mind 
+I hate to think we never crossed your mind
           F#m          E
-But is it any question why? 
+But is it any question why?
        F#m            A
-In the end I couldn't stand the thought of you 
+In the end I couldn't stand the thought of you
 
 
 [Chorus]
-E                             A  
+E                             A
 Laying in bed, staring at the Sun   x4
 
 
 [Verse 2]
 C#m
-We followed you across the nation, 
+We followed you across the nation,
 E
-just another page in the compilation 
-A                            Ab                     
-But I was never there to disagree 
+just another page in the compilation
+A                            Ab
+But I was never there to disagree
           F#m       E            A                 Ab
-But is it any mystery that you'd still be haunting me? 
+But is it any mystery that you'd still be haunting me?
          F#m                           E
-And am I better now to know your history? 
-           F#m                                
-Or could I ever been the one to hold your hand 
-A                             
-And whisper to you while you were 
+And am I better now to know your history?
+           F#m
+Or could I ever been the one to hold your hand
+A
+And whisper to you while you were
 
 [Chorus]
+E                             A
+Laying in bed, staring at the Sun   x4
+
 
 [Bridge]  D C#m F#m E Ab C#m D D C#m C#m D D A A
 
 [Chorus]
+E                             A
+Laying in bed, staring at the Sun   x4
 
-[Outro]  E  A  x4    E
+
+[Outro]
+E  A  x4
+E

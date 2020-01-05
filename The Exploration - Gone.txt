@@ -1,16 +1,16 @@
-The Exploration - Gone
+Gone - The Exploration
 
 Tabbed for the released version: https://www.youtube.com/watch?v=q7oqlHwWRCQ
 But live shows how to play it: https://youtu.be/-DPXC1_HAko?t=2m47s
 
-Even though there's a capo 3 numbers are absolute frets.
+Even though there's a capo 3 numbers are absolute frets. That's not how a tab should normally be but the intervals are far enough from the capo that it just seems easier to use absolute numbers and your guitar fret markers than count up from the capo. Though chords aren't played, to better understand it, it's based off of Em C D C G. Those are given relative to the capo.
 You can play this with two fingers on the left hand and
 just the index finger on the right. All notes are tapped,
 Some notes are held and later pulled to make either
 an open note or the note still held in the left hand 
 as indicated by a solid line.
 You could equate this to 4/4 time but it helps to count 3 and 5 or even 1 2 3  1 2 3  1 2
-Though chords aren't played, to better understand it, it's based off of Em C D C G.
+
 
 h hammer (tap) note
 p pull/release previous note making note indicated
@@ -18,21 +18,24 @@ p pull/release previous note making note indicated
 L left hand
 R right hand
 
+Key of B♭ (G relative to capo)
+
 Capo 3 (for the open release notes)
+
+[Intro]
+(and verses)
     Em                   C
-    Gm                   D#
-e|---------------------|----------------------------------|
-B|--------------------------------------------------------|
-G|------------------h12————————————————————p(3-open with capo)
-D|------h8——h12—p(8)--------------------------------------|
-A|--h10------------------h6———————————————————————————————|
-E|---------------------|----------------------------------|
+e|---------------------|---------------------------------------|
+B|-------------------------------------------------------------|
+G|------------------h12————————————————————p(3-open-with-capo)-|
+D|------h8——h12—p(8)-------------------------------------------|
+A|--h10------------------h6————————————————————————————————————|
+E|---------------------|---------------------------------------|
     1   +   2   +   3    1     2     3     4     5
     L       R   R(L)R    L                R        
    "Growing up withoyou  was never all thatbad, you remember"
 
     D                    C            G
-    F5                   D#sus2       A#
 e|---------------------|----------------------------------|
 B|--------------------------------------------------------|
 G|--------------h10——————————————p(3)---------------------|
@@ -43,9 +46,7 @@ E|---------------------|----------------------------------|
     L   R       R        L       R   R           R
    "all those times,    that we never had"                                
 
-x8   
-
-(twice as intro and then once for each of the six stanzas)
+(Play that 8 times twice as intro and then once for each of the six stanzas)
 
 Growing up without you, was never all that bad
 You remember all those times, that we never had
@@ -68,12 +69,9 @@ Then watch me follow them then fall away into a life of grief
 I'll never be the man that you imagined I would be
 
 
-
+[End]
 
 ======================================================================================
-
-
-
 That's my correction of https://tabs.ultimate-guitar.com/t/the_exploration/gone_tab.htm :
 
 "Growing up without you..."

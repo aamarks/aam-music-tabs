@@ -1,76 +1,92 @@
-The Extraordinaires - Staring at the Sun
+Staring at the Sun - The Extraordinaires
+
+https://youtu.be/SiOQTPVctIw
 
 C#m  446654
+E    022100
 F#m  244222
-Ab   466544
+G#   466544
 D    557775
+C#m6/A# x12120
 A    577655 (barred in bridge, open elsewhere)
 
-Not sure about the F#m in the bridge and 2nd occurrence in the verses.  --Art
+He occasionally throws in a pinky on E -> E6 022120 and maybe A -> A7 x02223 when playing the chorus.
+
+Wasn't sure about the chord before the last A in the verses. It only took me 3 years, coming back to it and finally hearing the A# in the released version and sort of making up a chord that fit, C#m6/A# ! It might just be an A in the last verse. I have an F in the bridge that sounds a little odd if you don't whistle the tune, but it sounds right when playing with the video.
+
+Tabbed by --Art
 
 
 Key of C♯m
 
-[Intro] C#m E A Ab F#m E F#m A   (uses verse 1 chords)
+[Intro] 
+(Uses verse 1 chords. Pull the pinky to get the 7ths mid measure)
+C#m  C#m (2 bars. Only in video version. C#m7 thrown in)
+(Whistling begins)
+C#m  E  A  G# G#7
+F#m  E  C#m6/A#  A   (uses verse 1 chords)
 
 [Verse 1]
 C#m
 We were never well-acquainted
 E
 And everyone you knew was a state behind you
-A                                 Ab
+A                                 G# G#7
 Left to wonder where you went and why
            F#m          E
 But did it come as a surprise
-         F#m                            A
+         C#m6/A#                        A
 That our voices carried further in your mind
                            C#m
 than you would ever recognize
 
+[Verse 2]
 C#m
 We were on a first name basis,
 E
 you were never good with names or faces
-A                                     Ab
+A                                     G# G#7
 I hate to think we never crossed your mind
           F#m          E
 But is it any question why?
-       F#m            A
+       C#m6/A#        A
 In the end I couldn't stand the thought of you
-
 
 [Chorus]
 E                             A
-Laying in bed, staring at the Sun   x4
+Laying in bed, staring at the Sun   (x4)
 
-
-[Verse 2]
+[Verse 3]
 C#m
 We followed you across the nation,
 E
 just another page in the compilation
-A                            Ab
+A                            G#
 But I was never there to disagree
-          F#m       E            A                 Ab
+          F#m       E            A                 G# G#7
 But is it any mystery that you'd still be haunting me?
          F#m                           E
 And am I better now to know your history?
-           F#m
+           C#m6/A#                        A
 Or could I ever been the one to hold your hand
-A
+                            (E)
 And whisper to you while you were
 
 [Chorus]
 E                             A
-Laying in bed, staring at the Sun   x4
+Laying in bed, staring at the Sun   (x4)
 
-
-[Bridge]  D C#m F#m E Ab C#m D D C#m C#m D D A A
+[Bridge]
+D  C#m Fm E 
+f# e   f  e (whistling)
+G#     C#m D        D
+d#f#d# e   f#g#f#ed f#g#f#ede
+C#m   C#m   D        D        A A
+c#eg# c#ec# f#g#f#ed f#g#f#ed e 
 
 [Chorus]
 E                             A
-Laying in bed, staring at the Sun   x4
-
+Laying in bed, staring at the Sun   (x4)
 
 [Outro]
 E  A  x4

@@ -1,15 +1,23 @@
 Whiskey Before Breakfast
 
+On the Uke & the Dulcimer
 
+The Merlin dulcimer is a very cool version.
 
 
 1. Whiskey Before Breakfast
+
+http://www.kenmiddleton.co.uk/freebies/Whiskey%20Before%20Breakfast%20gCEA.pdf
+More free Uke tabs like that: http://www.kenmiddleton.co.uk/free-tabs/
+Someone playing this version: https://youtu.be/AXFQKpXakGA Nice to see some of the technique.
+
 
  	[2013]
 
 Tuning: GCEA
 
 Key of C F G D
+Key of F
 
 Not this:
 
@@ -46,6 +54,12 @@ G|--------------------------------------------------------------------|
 2. Whiskey Before Breakfast (version 2)
 
 https://youtu.be/F1ScOUL0b8Q
+My tab based off this performance. You can join his site to get the complete tab and others.
+
+Others are playing in the same key:
+https://youtu.be/S4iMd7ILaU4 (sounds great, but has simpler overlay for depth)
+
+Tabbed by --Art
 
 C 	[0003]
 C'  [x233]
@@ -106,59 +120,15 @@ E|-----------------------------------------------------------------------|
 C|-----------------------------------------------------------------------|
 G|-----------------------------------------------------------------------|
 
-A|-----------------------------------------------------------------------|
-E|-----------------------------------------------------------------------|
-C|-----------------------------------------------------------------------|
-G|-----------------------------------------------------------------------|
 
 
 
+3. Whiskey Before Breakfast (Merlin Dulcimer)
 
-3. Some chords I came up with noodling.
-
-
-Tuning: GCEA
-
-Key of Dm ?
-
-[]
-(voice b=bflat)
-                    or bab
-   a d aga b d bab b e bcb a f a e
-
-(C#m7)
-   Dm      Gm      C7      F     A7
-A|-0-------1-------1-------0-----0------------------------------------|
-E|-1-------3-------0-------1-----0------------------------------------|
-C|-2-------2-------0-------0-----1------------------------------------|
-G|-2-------0-------0-------2-----0------------------------------------|
-   1-2-3-4 1-2-3-4 1-2-3-4 1-2-3-4
-
-
-
-
-3. sdh
-
-key of F
-
-(another set)
-   F       A7      Dm      C
-A|-0-------0-------0-------3------------------------------------------|
-E|-1-------0-------1-------0------------------------------------------|
-C|-0-------3-------2-------0------------------------------------------|
-G|-2-------0-------2-------5------------------------------------------|
-
-A|--------------------------------------------------------------------|
-E|--------------------------------------------------------------------|
-C|--------------------------------------------------------------------|
-G|--------------------------------------------------------------------|
-
-
-
-
-4. Whiskey Before Breakfast (Merlin Dulcimer)
 https://youtu.be/76VqPPen2g0
 https://cdn.shopify.com/s/files/1/0970/6796/files/Mini-Chords_Section.pdf
+
+Tabbed by --Art
 
 Starts with open D chords, then f#, d, f# slide to a at the 7th fret, but then continue the 'a' on the open second string.
 

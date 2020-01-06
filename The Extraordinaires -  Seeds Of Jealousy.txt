@@ -1,21 +1,36 @@
 The Extraordinaires -  Seeds Of Jealousy 
 
-The chorus seems like it could be Am F C E but that doesn't match up.
+An easy song with simple chords, but the strumming can be difficult. Strumming pattern is the simplest general case that sounds like Jay Purdy's strum without the occasional embellishments. Most of it is \pick\strum x4 all on the downstroke with the occasional upstrokes added in at the ends of lines. The outro is just d u d u on each chord, but with a bit of swing that I can't duplicate on UG. You can add some 16ths to the strum of the F in the outro to pick up what the second guitar is doing.
+Tabbed by --Art
+ 
 
-Capo 5 (key of F)
-
-v v^v v^v v^v v^
+Capo 5, key of F (C relative to capo)
 
 
-[intro]
-C C C C
-(guitar)
-[instrumental]         
-C Am C Am F C Em F
+[Intro]
+(guitar, C x4)
+ 
+    C
+e|------0-0-----0-0-----0-0-----0-0---|
+B|------1-1-----1-1-----1-1-1---1-1---|
+G|------0-0-----0-0-----0-0-0---0-0---|
+D|------2-2-----2-2-----2-2-0h2-2-2---|
+A|--3---------------3-------3---------|
+E|----------3-------------------------|
+ 
+    C
+e|------0-0-----0-0-----0-0-----0-0---|
+B|--1---1-1-----1-1-----1-1-1---1-1---|
+G|--0---0-0-----0-0-----0-0-0---0-0---| x3
+D|--0h2-2-2-----2-2-----2-2-0h2-2-2---|
+A|--3---------------3-------3---------|
+E|----------3-------------------------|
+
+[Instrumental]         
 (guitar, harmonica)  
+C Am C Am F C Em F
 
-       
-[verse 1]
+[Verse 1]
 C                            Am
 Every time you leave me here on this old deck of mine
 C                               Am
@@ -25,12 +40,10 @@ Waltzing with the wind so high, you're wrapped up in its arms so tight
    Em                                  F               C    
 It scares me half to death because I'm not the jealous type
 
-
-[instrumental]         
+[Instrumental]         
    Am C Am F C Em F
 
-
-[verse 2]
+[Verse 2]
     C                                  Am
 You tell me all the time that I'm your one and only love
      C                               Am
@@ -40,12 +53,10 @@ Why am I not good enough? The competition's killing us
     Em                               F                 C    
 You seem like you're on the run, and I just can't keep up
 
-
-[instrumental]         
+[Instrumental]         
    Am C Am F C Em F
 
-
-[chorus]
+[Chorus]
     Em                  C
 Annelies, where are you goin'?
   G                             B
@@ -57,14 +68,13 @@ We tell each other everything 'cause you promised with that wedding ring,
     Em C G B7 Em C G B7 B7
 Annelies
 
-
-[instrumental]
-C E Am F  x2 
+[Instrumental]
 (guitar)         
-C E Am F  x4 
+C E Am F  (x2) 
 (guitar, harmonica)         
+C E Am F  (x4) 
 
-[outro]
+[Outro]
 C        E         Am      F           
 Signs of guilt and longing lust 
     C           E         Am      F           
@@ -82,7 +92,7 @@ Take the throttle or my hand
    C       E        Am     F           
 If I can't have you no one can
 
-      C     E        Am    F   x7        
-Wo-o  Oh oh oh-oh-oh oh
+      C     E        Am    F           
+Wo-o  Oh oh oh-oh-oh oh        (x7)
       C     E        Am    F    C      
 Wo-o  Oh oh oh-oh-oh oh    wah  ooo

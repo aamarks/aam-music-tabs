@@ -1,10 +1,10 @@
-UKE DEMO TUNES
+Ukulele Demo Tunes Collection
 
-GotAUkulele using the same two tunes to demo several ukuleles in every price range.
+First two are from GotAUkulele using the same two tunes to demo several ukuleles in every price range.
 First classic uke chording, "Sister Kate"
 Second picking
 
-https://www.youtube.com/watch?v=sGcscQZE5sk
+I'm adding all the short uke demo tunes I've tabbed to this file as well.
 
 
 
@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=sGcscQZE5sk
 1. Shimmy like my sister Kate
 
 Armand J. Piron, 1922
+https://www.youtube.com/watch?v=sGcscQZE5sk
 
 Each chord with 2 beats down a mix of ups: starts d.du dudu ...
 
@@ -44,9 +45,10 @@ Key of G
 
 2. Creep - Radiohead
 
-Noodling with the chords from it anyway...
+Noodling with the chords from Creep anyway...
+https://www.youtube.com/watch?v=sGcscQZE5sk
 
-I haven't tabbed out everything, some of the more regular patterns (that are still somewhat unique)
+I haven't tabbed out everything, like some of the more regular patterns (that are still somewhat unique)
 
 Tuning: gCEA
 Key of C
@@ -63,3 +65,22 @@ Make sure you don't hit the g and the a-string together on the F(#9) [1010].
 
 Similar picking on E7 and F. Lead into Fm with open 1st string then don't pick
 that string until you add it 3rd fret on the Fm strums.
+
+
+
+
+3. Appalachian Flower - Ukulele Demo
+
+https://youtu.be/OQsRBP8W5oU?t=27
+
+
+A|-----8---7---5--------5---5h7p-5-----------------------------------------|
+E|-----------------8p0------0------8-------6---5---------------7--s8-------|
+C|-0-----------------------------------0-----------7---5---7-----------0---|
+G|---0---0---0---0----0---0----------0---0---0---0---0---0---0---0---0-----|
+
+
+A|-----8---7---5--------5---5h7p-5--------0----5---8------0------7h8pluck--|
+E|-----------------8p0-------------8-------6-----------6---6-----8---off---|
+C|-------------------------------------0-------------------------0---------|
+G|---0---0---0---0----0---0----------0---0---0---0---0---0---0---0---------|

@@ -1,8 +1,22 @@
- V v  ^v^
-
-
 The Dead South – Honey You
-tabbed by --art
+
+Strum:
+     intro, verses:                  pre-chorus     chorus    chorus->instrumental
+     base note(s) bigstrum ~u du     D   D          D         d d D dud d D du
+     1            2        3  4      1 2 1 2        1234      1   2   3   4
+Strum on prechorus is just once on the first beat.
+He sometimes throws in a hammer on, like with the middle finger on 3rd beat of the Am.
+E7 is an option, but I think it's E. He uses C/G (which I use by default playing C) which sounds better than hitting an open or muted low E string when jamming all the strings like he does.
+
+It sounds/looks like the banjo is playing this at the end of each of the two lines in the pre-chorus (I've shown just the first two strings transcribed to guitar).
+
+d|--7h9--7--4--2-----| (absolute frets even though he's using capo at 2)
+B|----------------3--|
+g|-------------------|
+D|-------------------|
+G|-------------------|
+
+tabbed by --art (posted Jan 25, 2017)
 
 
 Capo 2
@@ -26,9 +40,9 @@ C     E     Am     F
 
 
 [Pre Chorus]
-C             E              Am
-They were the ones who could fly.
-C    E       Am        
+C             E              Am       e|---5h7--5-----0------
+They were the ones who could fly.     B|-----------7-----3---
+C    E       Am
 They flew so high.
 
 
@@ -47,18 +61,18 @@ you,   a-hoh  o-hoh
 C Em Am F   x4
 (cello)
 C Em Am F   x3
-(banjo)
+(banjo, mandolin)
 
 
 [Verse 1]
 C               E                  Am               F
 Honey you are a rock and I am your land and we will grow.
 C              E                           Am        F
-Before the sun dries us up and turns us to sand.     Oh 
+Before the sun dries us up and turns us to sand.     Oh
 C               E                   Am                 F
 Do you remember when the ocean went mad and we were to blame?
 C           E                          Am          F
-And ran to another world with lives to save.       Oh 
+And ran to another world with lives to save.       Oh
 C     E     Am     F
     a-hoh...
 
@@ -66,6 +80,5 @@ C     E     Am     F
 [Pre Chorus]
 C             E              Am
 They were the ones who could fly.
-C    E       Am        C    
+C    E       Am      C
 They flew so high.
-

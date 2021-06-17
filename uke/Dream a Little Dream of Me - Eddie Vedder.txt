@@ -7,7 +7,25 @@ Lyrics by Gus Kahn  (1931)
 
 Eddie Vedder version (in G)
 
+Tuning: gCEA
+
+G/B 	[4232]
+D#7/A# 	[3334]
+D7/A 	[2223]
+
+
+
  G 4232                  D# 3331 D7 2223                  
+   Stars shining bright above you                       
+ G                       B7 2322  B7-9 2323
+   Night breezes seem to whisper I love you
+ A-A7     Cm       Cm6  Cm
+    Birds singing in the sycamore tree
+G       A9 0102 0132    D 2220 2225 D7 2223
+Dream a little dream of me
+
+2
+ G 4232                  D# 3334 D7 2223                  
    Stars shining bright above you                       
  G                       B7 2322  B7-9 2323
    Night breezes seem to whisper I love you
@@ -19,9 +37,9 @@ Dream a little dream of me
 
     Say nighty- night and kiss me
 
-    Just hold me tight and tell me you’ll miss me                     
+    Just hold me tight and tell me youï¿½ll miss me                     
 
-    While I’m alone as blue as can be
+    While Iï¿½m alone as blue as can be
                               G
 Dream a little dream of  me
 
@@ -31,7 +49,7 @@ Bridge
 
   Still craving your kiss
 
-   I’m longing to linger til dawn dear
+   Iï¿½m longing to linger til dawn dear
 
    Just saying this
 
@@ -57,10 +75,3 @@ A|---0----0------------------------------------------------------------------|
 E|-0-0----0------------------------------------------------------------------|
 C|---1----1------------------------------------------------------------------|
 g|---2----0------------------------------------------------------------------|
-
-
-
-
-
-
-

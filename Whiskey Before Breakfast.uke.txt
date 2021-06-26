@@ -1,23 +1,25 @@
 Whiskey Before Breakfast
 
-On the Uke & the Dulcimer
+Status: unfinished
 
+A collection of tabs for the Uke & the Dulcimer. 
 The Merlin dulcimer is a very cool version.
+
+
 
 
 1. Whiskey Before Breakfast
 
+The ukulele tab is by Ken Middleton:
 http://www.kenmiddleton.co.uk/freebies/Whiskey%20Before%20Breakfast%20gCEA.pdf
 More free Uke tabs like that: http://www.kenmiddleton.co.uk/free-tabs/
-Someone playing this version: https://youtu.be/AXFQKpXakGA Nice to see some of the technique.
+Someone playing this version: https://youtu.be/AXFQKpXakGA. Nice to see some of the technique.
 
 
  	[2013]
 
 Tuning: GCEA
 
-Key of C F G D
-Key of F
 
 Not this:
 
@@ -74,10 +76,12 @@ Am'	[x-9-10-8] Am?
 Am7
 G7'	[0-11-10-8]            C* ?[x-9-10-8]  G7 C'*  [x575]  F[x988]  C'* F C[x433] G C . C*
 
+The 3rd fret second string (g) needed when playing a low-G uke can be played on the open g on a high g uke.
+
+
 Tuning: GCEA
 
 Key of C
-The 3rd fret second string (g) is sometimes the open g on a high g uke
 
 [Intro]
 C x4

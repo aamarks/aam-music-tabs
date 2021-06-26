@@ -9,7 +9,8 @@ just the index finger on the right. All notes are tapped,
 Some notes are held and later pulled to make either
 an open note or the note still held in the left hand 
 as indicated by a solid line.
-You could equate this to 4/4 time but it helps to count 3 and 5 or even 1 2 3  1 2 3  1 2
+
+Rhythm: You could equate this to 4/4 time but it helps to count 3 and 5 or even 1 2 3  1 2 3  1 2
 
 
 h hammer (tap) note
@@ -24,6 +25,7 @@ Capo 3 (for the open release notes)
 
 [Intro]
 (and verses)
+
     Em                   C
 e|---------------------|---------------------------------------|
 B|-------------------------------------------------------------|
@@ -67,7 +69,6 @@ For what he did believe in, guess society is right
 
 Then watch me follow them then fall away into a life of grief
 I'll never be the man that you imagined I would be
-
 
 [End]
 

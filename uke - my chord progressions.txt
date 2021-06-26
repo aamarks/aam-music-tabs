@@ -5,7 +5,8 @@ an other noodling....
 
 
 
-3. Some chords I came up with noodling.
+
+1. Some chords I came up with noodling.
 
 
 Tuning: GCEA
@@ -13,7 +14,7 @@ Tuning: GCEA
 Key of Dm ?
 
 []
-(voice b=bflat)
+(voice notation: b is a bflat)
                     or bab
    a d aga b d bab b e bcb a f a e
 
@@ -28,11 +29,10 @@ G|-2-------0-------0-------2-----0------------------------------------|
 
 
 
-3. sdh
+2. F chordset
 
 key of F
 
-(another set)
    F       A7      Dm      C
 A|-0-------0-------0-------3------------------------------------------|
 E|-1-------0-------1-------0------------------------------------------|

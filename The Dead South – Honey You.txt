@@ -8,23 +8,30 @@ Strum on prechorus is just once on the first beat.
 He sometimes throws in a hammer on, like with the middle finger on 3rd beat of the Am.
 E7 is an option, but I think it's E. He uses C/G (which I use by default playing C) which sounds better than hitting an open or muted low E string when jamming all the strings like he does.
 
-It sounds/looks like the banjo is playing this at the end of each of the two lines in the pre-chorus (I've shown just the first two strings transcribed to guitar).
+It sounds/looks like the banjo is playing this at the end of each of the two lines in the pre-chorus (I've shown just the first 3 strings transcribed to guitar).
 
-d|--7h9--7--4--2-----| (absolute frets even though he's using capo at 2)
+d|--5h7--5--2--0-----|  (capo2)
 B|----------------3--|
 g|-------------------|
 D|-------------------|
 G|-------------------|
 
+C/G [332010]
+E 	[022100]
+Am 	[x02210]
+F 	[133211] (you can see him play the bar chord at 2:36)
+
 tabbed by --art (posted Jan 25, 2017)
+
 
 
 Capo 2
 
+Key of D (C relative to capo)
+
 
 [Intro]
 C C C C  x2
-
 
 [Verse 1]
 C               E                  Am               F
@@ -38,13 +45,11 @@ And ran to another world with lives to save.         Oh
 C     E     Am     F
     a-hoh...
 
-
 [Pre Chorus]
-C             E              Am       e|---5h7--5-----0------
-They were the ones who could fly.     B|-----------7-----3---
-C    E       Am
+C             E              Am       e|---3h5--3------------
+They were the ones who could fly.     B|-----------5--3------
+C    E       Am                       G|-----------------5---
 They flew so high.
-
 
 [Chorus]
 C               E                  Am            F
@@ -56,13 +61,11 @@ And all around and we are watching those birds in the sky from the mountainside 
 C        E      Am      F
 you,   a-hoh  o-hoh
 
-
 [Instrumental]
-C Em Am F   x4
+C E Am F   x4
 (cello)
-C Em Am F   x3
+C E Am F   x3
 (banjo, mandolin)
-
 
 [Verse 1]
 C               E                  Am               F
@@ -75,7 +78,6 @@ C           E                          Am          F
 And ran to another world with lives to save.       Oh
 C     E     Am     F
     a-hoh...
-
 
 [Pre Chorus]
 C             E              Am

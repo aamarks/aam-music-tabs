@@ -1,10 +1,20 @@
-Mandolin Orange - Boots of Spanish Leather (Bob Dylan Cover) - Audiotree Live
+Mandolin Orange - Boots of Spanish Leather (Bob Dylan Cover) 
 
-Mandolin Orange has renamed to Watchhouse
+Audiotree Live 2014 version
+
+(Mandolin Orange has renamed to Watchhouse in 2021)
 
 Every time I hear some finger picking that really stands out like this one I start working on it thinking they've discovered some completely new sequence, but often I finally realize it's still just a variation of picking I already know. 
 
 Basic picking is a standard outer to inner roll from low hi lesslow lesshi but the first hi is omitted on the G chord until the second half of the measure. The second measure begins with high and low together with a hammer on the first fret b-string (making it a Gadd4??).
+
+The picking is sort of a variance of Travis picking (Travis, 63426342, is played on the D of the intro and the 2010 performance). Most of the picking is 62436243 with a lot of variation either with hammer-ons on the b-string, or playing the b-string with the root note.
+
+Each line ends in a G sequence that is the same (asside from occasional differences in hammer-ons for variety). I'm just notating the sequence G', for simplicity and because they have used different sequences in different recordings.
+G' = G  C/G(Am7/G)  G  G-D (4 measures with a walkdown on the last from G to F#, which has D chord-ness, to E of the Em)
+
+In a 2010 performance the G-D is a simple D-chord inverted with the f# in the bass with Travis picking. It has a very flowing to and fro from the G to the Em with D in between, like calm waves on the shore.
+The more polished 2014 Audiotree performance is what's shown here.
 
 Tabbed by --art
 
@@ -12,37 +22,67 @@ Tabbed by --art
 
 Capo 2
 
-   G                    Am/G                G                 
-e|-------------------|-------------------|--------------------|
-B|------------0------|--0h1-------1------|------------0-------|
-G|--------0-------0--|--------0-------0--|--------0-----------|
-D|------0-------0----|------2-------2----|------0-------0-----|
-A|-------------------|-------------------|--------------------|
-E|--3-------3--------|--3-------3--------|--3-------3---------|
+Key of A (G relative to capo)
 
-     D                   Am/G                G4                
-e|--------------------|-------------------|-------------------|
-B|---------3-------0--|------------0------|--0h1-------1------|
-G|-----2-------2------|--------0-------0--|--------0-------0--|
-D|-------0-------0----|------2-------2----|------0-------0----|
-A|--------------------|-------------------|-------------------|
-E|---2-------2--------|--3-------3--------|--3-------3--------|
+(Each line)
+                        Em                  D
+e|-------------------|-------------------|-------------------|
+B|-------------------|----0-------0------|------------1------|
+G|-------------------|--------0-------0--|--------2-------2--|
+D|-------------------|------2-------2----|------0-------0----|
+A|-------------------|-------------------|-------------------|
+E|-------------------|--0-------0--------|--0h2-----2--------|
+
+G'
+    G                   C/G                 G                   G       G/F# 
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|------------0------|
+G|--------0-------0--|--------0-------0--|--------0----------|-------(0)------0--|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--3-------2--------|
+
+(Other options)
+    Am7/G               G4                                      G       G/F#
+e|-------------------|-------------------|                    -------------------|
+B|------------0------|--0h1-------1------|                    -------------------|
+G|--------0-------0--|--------0-------0--|                    ------0-----0------|
+D|------2-------2----|------0-------0----|                    ------0-----0------|
+A|-------------------|-------------------|                    -------------------|
+E|--3-------3--------|--3-------3--------|                    --3-------2--------|
 
 
-e|--------3-----------|
-B|--------3-----3-----|
-G|----0-0-----0-------|
-D|------0-------------|
-A|--3-------3---------|
-E|--------------------|
+e|--------3----------|
+B|--------3-----3----|
+G|----0-0-----0------|
+D|------0------------|
+A|--3-------3--------|
+E|-------------------|
 
 
 Mandolin Orange - Boots of Spanish Leather (Bob Dylan Cover) 
 
-CAPO 2 
+Capo 2 
 
 [Intro]
- G C  G D  G C  G G 
+(G C/G G D  G C G  G-F#) 
+
+    G                   C/G                 G                   D
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|--------3-------0--|
+G|--------0-------0--|--------0-------0--|----------------0--|----2-------2------|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--2-------2--------|
+
+(This phrase is used for the ends of verse lines for G  C G G, with some variations)
+    G                   C/G                 G                   G       G/F#
+e|-------------------|-------------------|-------------------|-------------------|
+B|------------0------|--0h1-------1------|--0---------0------|------------0------|
+G|----------------0--|--------0-------0--|----------------0--|-------(0)------0--|
+D|------0-------0----|------2-------2----|------0-------0----|------0-------0----|
+A|-------------------|-------------------|-------------------|-------------------|
+E|--3-------3--------|--3-------3--------|--3-------3--------|--3-------2--------|
 
 [Verse 1]
        Em       Em     D        G    C G G
